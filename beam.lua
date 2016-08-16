@@ -696,13 +696,13 @@ function main()
    out_file:close()
 
    f = hdf5.open("encoder.hdf5", "w")
-   f:write(saved_encoder_states, "encoder_states")
-   f:write(saved_encoder_ids, "encoder_ids")
+   f:write("encoder_states", saved_encoder_states)
+   f:write("encoder_ids", saved_encoder_ids)
    f:close()
 
    f = hdf5.open("decoder.hdf5", "w")
-   f:write(saved_decoder_states, "states")
-   f:write(saved_decoder_ids, "decoder_ids")
+   f:write("states", saved_decoder_states)
+   f:write("decoder_ids", saved_decoder_ids)
    f:close()
 
    
