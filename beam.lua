@@ -154,7 +154,7 @@ function generate_beam(model, initial, K, max_sent_l, source, gold)
       local out = model[1]:forward(encoder_input)
       rnn_state_enc = out
       for k = 1, model_opt.num_layers * 2 do 
-         saved_encoder_states[{saved_decoder_position, k}]:copy(out_decoder[k])
+         saved_encoder_states[{saved_encoder_position, k}]:copy(out[k])
       end
       saved_encoder_ids[saved_encoder_position] = source_input[t]
       saved_encoder_position = saved_encoder_position + 1
