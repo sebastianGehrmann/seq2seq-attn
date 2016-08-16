@@ -147,12 +147,15 @@ function generate_beam(model, initial, K, max_sent_l, source, gold)
       table.insert(rnn_state_enc, init_fwd_enc[i]:zero())
    end   
    local context = context_proto[{{}, {1,source_l}}]:clone() -- 1 x source_l x rnn_size
-   
+
+   table.insert(saved_encoder_offsets, saved_encoder_position)
    for t = 1, source_l do
       local encoder_input = {source_input[t], table.unpack(rnn_state_enc)}
       local out = model[1]:forward(encoder_input)
       rnn_state_enc = out
-      saved_encoder_states[{saved_encoder_position, 1}]:copy(out[1])
+      for k = 1, model_opt.num_layers * 2 do 
+         saved_encoder_states[{saved_decoder_position, k}]:copy(out_decoder[k])
+      end
       saved_encoder_ids[saved_encoder_position] = source_input[t]
       saved_encoder_position = saved_encoder_position + 1
       context[{{},t}]:copy(out[#out])
@@ -344,10 +347,13 @@ function generate_beam(model, initial, K, max_sent_l, source, gold)
 	 rnn_state_dec = {} -- to be modified later
 	 if model_opt.input_feed == 1 then
 	    table.insert(rnn_state_dec, out_decoder[#out_decoder])
-	 end	 
+	 end
+     table.insert(saved_decoder_offsets, saved_decoder_position)
 	 for j = 1, #out_decoder - 1 do
 	    table.insert(rnn_state_dec, out_decoder[j])
-        saved_decoder_states[{saved_decoder_position, 1}]:copy(out_decoder[1])
+        for k = 1, model_opt.num_layers * 2 do 
+           saved_decoder_states[{saved_decoder_position, k}]:copy(out_decoder[k])
+        end
         saved_decoder_ids[saved_decoder_position] = source_input[t]
         saved_decoder_position = saved_decoder_position + 1
 
@@ -593,9 +599,13 @@ function main()
 
    saved_encoder_states = torch.zeros(10000, model_opt.num_layers, model_opt.rnn_size)
    saved_encoder_ids = torch.zeros(10000)
+   saved_encoder_offsets = {}
    saved_encoder_position = 1
+   
+   
    saved_decoder_states = torch.zeros(10000, model_opt.num_layers, model_opt.rnn_size)
    saved_decoder_ids = torch.zeros(10000)
+   saved_decoder_offsets = {}
    saved_decoder_position = 1
 
    
@@ -700,13 +710,19 @@ function main()
    out_file:close()
 
    f = hdf5.open("encoder.hdf5", "w")
-   f:write("encoder_states", saved_encoder_states)
+   for k = 1, 2 * model_opt.num_layers do
+      f:write("states"..k, saved_encoder_states[{{}, k}])
+   end
    f:write("encoder_ids", saved_encoder_ids)
+   f:write("encoder_offsets", torch.LongTensor(saved_encoder_offsets))
    f:close()
 
    f = hdf5.open("decoder.hdf5", "w")
-   f:write("states", saved_decoder_states)
+   for k = 1, 2 * model_opt.num_layers do
+      f:write("states" .. k, saved_decoder_states[{{}, k}])
+   end
    f:write("decoder_ids", saved_decoder_ids)
+   f:write("decoder_offsets", torch.LongTensor(saved_decoder_offsets))
    f:close()
 
    
