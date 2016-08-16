@@ -713,18 +713,23 @@ function main()
    for k = 1, 2 * model_opt.num_layers do
       f:write("states"..k, saved_encoder_states[{{}, k}])
    end
-   f:write("encoder_ids", saved_encoder_ids)
-   f:write("encoder_offsets", torch.LongTensor(saved_encoder_offsets))
+   f:write("offsets", torch.LongTensor(saved_encoder_offsets))
    f:close()
 
+   f = hdf5.open("encoder_words.hdf5", "w")
+   f:write("words", saved_encoder_ids)
+   f:close()
+   
    f = hdf5.open("decoder.hdf5", "w")
    for k = 1, 2 * model_opt.num_layers do
       f:write("states" .. k, saved_decoder_states[{{}, k}])
    end
-   f:write("decoder_ids", saved_decoder_ids)
-   f:write("decoder_offsets", torch.LongTensor(saved_decoder_offsets))
+   f:write("offsets", torch.LongTensor(saved_decoder_offsets))
    f:close()
 
+   f = hdf5.open("decoder_words.hdf5", "w")
+   f:write("words", saved_decoder_ids)
+   f:close()
    
 end
 main()
