@@ -109,6 +109,7 @@ function flat_to_rc(v, flat_index)
    return row, (flat_index - 1) % v:size(2) + 1
 end
 
+
 function generate_beam(model, initial, K, max_sent_l, source, gold)
    --reset decoder initial states
    if opt.gpuid >= 0 and opt.gpuid2 >= 0 then
@@ -151,10 +152,13 @@ function generate_beam(model, initial, K, max_sent_l, source, gold)
       local encoder_input = {source_input[t], table.unpack(rnn_state_enc)}
       local out = model[1]:forward(encoder_input)
       rnn_state_enc = out
+      saved_encoder_states[saved_encoder_position, 1]:copy(out[1])
+      saved_encoder_ids[saved_encoder_position] = source_input[t]
+      saved_encoder_position = saved_encoder_position + 1
       context[{{},t}]:copy(out[#out])
    end
 
-   print(rnn_state_enc)
+   
    
    rnn_state_dec = {}
    for i = 1, #init_fwd_dec do
@@ -583,6 +587,14 @@ function main()
       end
    end
 
+   saved_encoder_states = torch.zeros(10000, model_opt.num_layers, model_opt.rnn_size)
+   saved_encoder_ids = torch.zeros(10000)
+   saved_encoder_position = 1
+   saved_decoder_states = torch.zeros(10000, model_opt.num_layers, model_opt.rnn_size)
+   saved_decoder_ids = torch.zeros(10000)
+   saved_decoder_position = 1
+
+   
    softmax_layers = {}
    model[2]:apply(get_layer)
    if model_opt.attn == 1 then
@@ -682,6 +694,18 @@ function main()
 			  math.exp(-gold_score_total/gold_words_total)))
    end
    out_file:close()
+
+   f = hdf5.open("encoder.hdf5", "w")
+   f:write(saved_encoder_states, "encoder_states")
+   f:write(saved_encoder_ids, "encoder_ids")
+   f:close()
+
+   f = hdf5.open("decoder.hdf5", "w")
+   f:write(saved_decoder_states, "states")
+   f:write(saved_decoder_ids, "decoder_ids")
+   f:close()
+
+   
 end
 main()
 
