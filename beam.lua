@@ -152,7 +152,7 @@ function generate_beam(model, initial, K, max_sent_l, source, gold)
       local encoder_input = {source_input[t], table.unpack(rnn_state_enc)}
       local out = model[1]:forward(encoder_input)
       rnn_state_enc = out
-      saved_encoder_states[saved_encoder_position, 1]:copy(out[1])
+      saved_encoder_states[{saved_encoder_position, 1}]:copy(out[1])
       saved_encoder_ids[saved_encoder_position] = source_input[t]
       saved_encoder_position = saved_encoder_position + 1
       context[{{},t}]:copy(out[#out])
