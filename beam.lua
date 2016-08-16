@@ -153,6 +153,9 @@ function generate_beam(model, initial, K, max_sent_l, source, gold)
       rnn_state_enc = out
       context[{{},t}]:copy(out[#out])
    end
+
+   print(rnn_state_enc)
+   
    rnn_state_dec = {}
    for i = 1, #init_fwd_dec do
       table.insert(rnn_state_dec, init_fwd_dec[i]:zero())
