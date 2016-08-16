@@ -169,6 +169,7 @@ function generate_beam(model, initial, K, max_sent_l, source, gold)
 	    rnn_state_enc[L*2]:expand(K, model_opt.rnn_size))
       end
    end
+
    
    if model_opt.brnn == 1 then
       for i = 1, #rnn_state_enc do
@@ -195,7 +196,7 @@ function generate_beam(model, initial, K, max_sent_l, source, gold)
 	 table.insert(rnn_state_dec_gold, rnn_state_dec[i][{{1}}]:clone())
       end      
    end
-   
+   print(model_opt.rnn_size)
    context = context:expand(K, source_l, model_opt.rnn_size)
    
    if opt.gpuid >= 0 and opt.gpuid2 >= 0 then
@@ -347,6 +348,7 @@ function generate_beam(model, initial, K, max_sent_l, source, gold)
 
       end      
    end
+   print(rnn_state_dec)
    if opt.simple == 1 or end_score > max_score or not found_eos then
       max_hyp = end_hyp
       max_score = end_score
