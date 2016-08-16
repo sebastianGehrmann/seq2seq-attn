@@ -347,6 +347,10 @@ function generate_beam(model, initial, K, max_sent_l, source, gold)
 	 end	 
 	 for j = 1, #out_decoder - 1 do
 	    table.insert(rnn_state_dec, out_decoder[j])
+        saved_decoder_states[{saved_decoder_position, 1}]:copy(out_decoder[1])
+        saved_decoder_ids[saved_decoder_position] = source_input[t]
+        saved_decoder_position = saved_decoder_position + 1
+
 	 end
 	 gold_score = gold_score + out[1][gold[t]]
 
