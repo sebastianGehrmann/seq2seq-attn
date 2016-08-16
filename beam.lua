@@ -321,6 +321,7 @@ function generate_beam(model, initial, K, max_sent_l, source, gold)
    end
    local gold_score = 0
    if opt.score_gold == 1 then
+      table.insert(saved_decoder_offsets, saved_decoder_position)
       rnn_state_dec = {}
       for i = 1, #init_fwd_dec do
 	 table.insert(rnn_state_dec, init_fwd_dec[i][{{1}}]:zero())
@@ -348,21 +349,21 @@ function generate_beam(model, initial, K, max_sent_l, source, gold)
 	 if model_opt.input_feed == 1 then
 	    table.insert(rnn_state_dec, out_decoder[#out_decoder])
 	 end
-     table.insert(saved_decoder_offsets, saved_decoder_position)
+
 	 for j = 1, #out_decoder - 1 do
 	    table.insert(rnn_state_dec, out_decoder[j])
-        for k = 1, model_opt.num_layers * 2 do 
-           saved_decoder_states[{saved_decoder_position, k}]:copy(out_decoder[k])
-        end
-        saved_decoder_ids[saved_decoder_position] = source_input[t]
-        saved_decoder_position = saved_decoder_position + 1
-
 	 end
+     for k = 1, model_opt.num_layers * 2 do 
+        saved_decoder_states[{saved_decoder_position, k}]:copy(out_decoder[k])
+     end
+     saved_decoder_ids[saved_decoder_position] = source_input[t]
+     saved_decoder_position = saved_decoder_position + 1
+
+     
 	 gold_score = gold_score + out[1][gold[t]]
 
       end      
    end
-   print(rnn_state_dec)
    if opt.simple == 1 or end_score > max_score or not found_eos then
       max_hyp = end_hyp
       max_score = end_score
