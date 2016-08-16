@@ -356,7 +356,7 @@ function generate_beam(model, initial, K, max_sent_l, source, gold)
      for k = 1, model_opt.num_layers * 2 do 
         saved_decoder_states[{saved_decoder_position, k}]:copy(out_decoder[k])
      end
-     saved_decoder_ids[saved_decoder_position] = decoder_input
+     saved_decoder_ids[saved_decoder_position] = decoder_input1
      saved_decoder_position = saved_decoder_position + 1
 
      
