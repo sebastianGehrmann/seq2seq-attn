@@ -10,6 +10,7 @@ require 'util.lua'
 stringx = require('pl.stringx')
 
 cmd = torch.CmdLine()
+torch.CudaTensor = torch.CudaFloatTensor
 
 -- file location
 cmd:option('-model', 'seq2seq_lstm_attn.t7.', [[Path to model .t7 file]])
@@ -161,6 +162,8 @@ function generate_beam(model, initial, K, max_sent_l, source, gold)
       context[{{},t}]:copy(out[#out])
    end
 
+   -- saved_encoder_ids[saved_encoder_position] = 1
+   -- saved_encoder_position = saved_encoder_position + 1
    
    
    rnn_state_dec = {}
@@ -355,14 +358,27 @@ function generate_beam(model, initial, K, max_sent_l, source, gold)
 	 end
      for k = 1, model_opt.num_layers * 2 do 
         saved_decoder_states[{saved_decoder_position, k}]:copy(out_decoder[k])
+        if t == 2 then
+           saved_encoder_states[{saved_encoder_position, k}]:copy(out_decoder[k])
+        end
+
      end
      saved_decoder_ids[saved_decoder_position] = decoder_input1
      saved_decoder_position = saved_decoder_position + 1
-     print(decoder_softmax.output)
+        if t == 2 then
+          saved_encoder_ids[saved_encoder_position] = 2
+          saved_encoder_position = saved_encoder_position + 1
+          saved_encoder_ids[saved_encoder_position] = 1
+          saved_encoder_position = saved_encoder_position + 1
+
+        end
      
 	 gold_score = gold_score + out[1][gold[t]]
 
-      end      
+      end
+   saved_decoder_ids[saved_decoder_position] = 1
+   saved_decoder_position = saved_decoder_position + 1
+      
    end
    if opt.simple == 1 or end_score > max_score or not found_eos then
       max_hyp = end_hyp
@@ -545,6 +561,7 @@ function main()
 
    -- load model and word2idx/idx2word dictionaries
    model, model_opt = checkpoint[1], checkpoint[2]  
+	print(model_opt)
    for i = 1, #model do
       model[i]:evaluate()
    end
@@ -598,14 +615,14 @@ function main()
       end
    end
 
-   saved_encoder_states = torch.zeros(1000, 2*model_opt.num_layers, model_opt.rnn_size)
-   saved_encoder_ids = torch.zeros(1000)
+   saved_encoder_states = torch.zeros(15000, 2*model_opt.num_layers, model_opt.rnn_size)
+   saved_encoder_ids = torch.zeros(15000)
    saved_encoder_offsets = {}
    saved_encoder_position = 1
    
    
-   saved_decoder_states = torch.zeros(1000, 2*model_opt.num_layers, model_opt.rnn_size)
-   saved_decoder_ids = torch.zeros(1000)
+   saved_decoder_states = torch.zeros(15000, 2*model_opt.num_layers, model_opt.rnn_size)
+   saved_decoder_ids = torch.zeros(15000)
    saved_decoder_offsets = {}
    saved_decoder_position = 1
 
