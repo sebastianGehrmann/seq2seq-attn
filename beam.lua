@@ -161,8 +161,6 @@ function generate_beam(model, initial, K, max_sent_l, source, gold)
         context[{ {}, t }]:copy(out[#out])
     end
 
-
-
     rnn_state_dec = {}
     for i = 1, #init_fwd_dec do
         table.insert(rnn_state_dec, init_fwd_dec[i]:zero())
@@ -260,6 +258,13 @@ function generate_beam(model, initial, K, max_sent_l, source, gold)
             decoder_softmax.output[{ {}, 1 }]:zero()
             decoder_softmax.output[{ {}, source_l }]:zero()
         end
+        --SEB Store current attention
+--        print(decoder_softmax.output)
+--        print(saved_soft_attn[soft_attn_pos])
+        saved_soft_attn[soft_attn_pos]:copy(decoder_softmax.output)
+        soft_attn_pos = soft_attn_pos + 1
+
+
 
         for k = 1, K do
             while true do
@@ -366,7 +371,7 @@ function generate_beam(model, initial, K, max_sent_l, source, gold)
         max_score = end_score
         max_attn_argmax = end_attn_argmax
     end
-
+    --SEB
     return max_hyp, max_score, max_attn_argmax, gold_score, states[i], scores[i], attn_argmax[i]
 end
 
@@ -577,8 +582,6 @@ function main()
             table.insert(gold, line)
         end
     else
-        --SEB
-        print('No gold labels found')
         opt.score_gold = 0
     end
 
@@ -597,6 +600,8 @@ function main()
         end
     end
 
+    --SEB: the 10000 hard limit creates overflow.
+
     saved_encoder_states = torch.zeros(10000, 2 * model_opt.num_layers, model_opt.rnn_size)
     saved_encoder_ids = torch.zeros(10000)
     saved_encoder_offsets = {}
@@ -607,6 +612,9 @@ function main()
     saved_decoder_ids = torch.zeros(10000)
     saved_decoder_offsets = {}
     saved_decoder_position = 1
+
+    saved_soft_attn = torch.zeros(10000, model_opt.num_layers+1, 9)
+    soft_attn_pos = 1
 
     saved_attn = torch.zeros(10000, MAX_SENT_L)
     attn_position = 1
@@ -710,7 +718,7 @@ function main()
 
         print('')
         --SEB for prototyping
-        if counter > 5 then
+        if counter < 0 then
             break
         end
         counter = counter + 1
@@ -724,6 +732,11 @@ function main()
             math.exp(-gold_score_total / gold_words_total)))
     end
     out_file:close()
+
+    f = hdf5.open("softattention.hdf5", "w")
+    f:write("attention", saved_soft_attn)
+    f:close()
+
 
     f = hdf5.open("attention.hdf5", "w")
     f:write("attention", saved_attn)
