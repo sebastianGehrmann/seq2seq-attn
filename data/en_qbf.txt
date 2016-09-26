@@ -1,432 +1,432 @@
-The quick brown fox jumped over the lazy dog 
-The quick brown fox jumps over the lazy dog 
-The quick brown fox skipped over the lazy dog 
-The quick brown fox ate over the lazy dog 
-The quick brown dog jumped over the lazy dog 
-The quick brown dog jumps over the lazy dog 
-The quick brown dog skipped over the lazy dog 
-The quick brown dog ate over the lazy dog 
-The quick brown fridge jumped over the lazy dog 
-The quick brown fridge jumps over the lazy dog 
-The quick brown fridge skipped over the lazy dog 
-The quick brown fridge ate over the lazy dog 
-The quick green fox jumped over the lazy dog 
-The quick green fox jumps over the lazy dog 
-The quick green fox skipped over the lazy dog 
-The quick green fox ate over the lazy dog 
-The quick green dog jumped over the lazy dog 
-The quick green dog jumps over the lazy dog 
-The quick green dog skipped over the lazy dog 
-The quick green dog ate over the lazy dog 
-The quick green fridge jumped over the lazy dog 
-The quick green fridge jumps over the lazy dog 
-The quick green fridge skipped over the lazy dog 
-The quick green fridge ate over the lazy dog 
-The quick lazy fox jumped over the lazy dog 
-The quick lazy fox jumps over the lazy dog 
-The quick lazy fox skipped over the lazy dog 
-The quick lazy fox ate over the lazy dog 
-The quick lazy dog jumped over the lazy dog 
-The quick lazy dog jumps over the lazy dog 
-The quick lazy dog skipped over the lazy dog 
-The quick lazy dog ate over the lazy dog 
-The quick lazy fridge jumped over the lazy dog 
-The quick lazy fridge jumps over the lazy dog 
-The quick lazy fridge skipped over the lazy dog 
-The quick lazy fridge ate over the lazy dog 
-The quick excited fox jumped over the lazy dog 
-The quick excited fox jumps over the lazy dog 
-The quick excited fox skipped over the lazy dog 
-The quick excited fox ate over the lazy dog 
-The quick excited dog jumped over the lazy dog 
-The quick excited dog jumps over the lazy dog 
-The quick excited dog skipped over the lazy dog 
-The quick excited dog ate over the lazy dog 
-The quick excited fridge jumped over the lazy dog 
-The quick excited fridge jumps over the lazy dog 
-The quick excited fridge skipped over the lazy dog 
-The quick excited fridge ate over the lazy dog 
-The red brown fox jumped over the lazy dog 
-The red brown fox jumps over the lazy dog 
-The red brown fox skipped over the lazy dog 
-The red brown fox ate over the lazy dog 
-The red brown dog jumped over the lazy dog 
-The red brown dog jumps over the lazy dog 
-The red brown dog skipped over the lazy dog 
-The red brown dog ate over the lazy dog 
-The red brown fridge jumped over the lazy dog 
-The red brown fridge jumps over the lazy dog 
-The red brown fridge skipped over the lazy dog 
-The red brown fridge ate over the lazy dog 
-The red green fox jumped over the lazy dog 
-The red green fox jumps over the lazy dog 
-The red green fox skipped over the lazy dog 
-The red green fox ate over the lazy dog 
-The red green dog jumped over the lazy dog 
-The red green dog jumps over the lazy dog 
-The red green dog skipped over the lazy dog 
-The red green dog ate over the lazy dog 
-The red green fridge jumped over the lazy dog 
-The red green fridge jumps over the lazy dog 
-The red green fridge skipped over the lazy dog 
-The red green fridge ate over the lazy dog 
-The red lazy fox jumped over the lazy dog 
-The red lazy fox jumps over the lazy dog 
-The red lazy fox skipped over the lazy dog 
-The red lazy fox ate over the lazy dog 
-The red lazy dog jumped over the lazy dog 
-The red lazy dog jumps over the lazy dog 
-The red lazy dog skipped over the lazy dog 
-The red lazy dog ate over the lazy dog 
-The red lazy fridge jumped over the lazy dog 
-The red lazy fridge jumps over the lazy dog 
-The red lazy fridge skipped over the lazy dog 
-The red lazy fridge ate over the lazy dog 
-The red excited fox jumped over the lazy dog 
-The red excited fox jumps over the lazy dog 
-The red excited fox skipped over the lazy dog 
-The red excited fox ate over the lazy dog 
-The red excited dog jumped over the lazy dog 
-The red excited dog jumps over the lazy dog 
-The red excited dog skipped over the lazy dog 
-The red excited dog ate over the lazy dog 
-The red excited fridge jumped over the lazy dog 
-The red excited fridge jumps over the lazy dog 
-The red excited fridge skipped over the lazy dog 
-The red excited fridge ate over the lazy dog 
-The slow brown fox jumped over the lazy dog 
-The slow brown fox jumps over the lazy dog 
-The slow brown fox skipped over the lazy dog 
-The slow brown fox ate over the lazy dog 
-The slow brown dog jumped over the lazy dog 
-The slow brown dog jumps over the lazy dog 
-The slow brown dog skipped over the lazy dog 
-The slow brown dog ate over the lazy dog 
-The slow brown fridge jumped over the lazy dog 
-The slow brown fridge jumps over the lazy dog 
-The slow brown fridge skipped over the lazy dog 
-The slow brown fridge ate over the lazy dog 
-The slow green fox jumped over the lazy dog 
-The slow green fox jumps over the lazy dog 
-The slow green fox skipped over the lazy dog 
-The slow green fox ate over the lazy dog 
-The slow green dog jumped over the lazy dog 
-The slow green dog jumps over the lazy dog 
-The slow green dog skipped over the lazy dog 
-The slow green dog ate over the lazy dog 
-The slow green fridge jumped over the lazy dog 
-The slow green fridge jumps over the lazy dog 
-The slow green fridge skipped over the lazy dog 
-The slow green fridge ate over the lazy dog 
-The slow lazy fox jumped over the lazy dog 
-The slow lazy fox jumps over the lazy dog 
-The slow lazy fox skipped over the lazy dog 
-The slow lazy fox ate over the lazy dog 
-The slow lazy dog jumped over the lazy dog 
-The slow lazy dog jumps over the lazy dog 
-The slow lazy dog skipped over the lazy dog 
-The slow lazy dog ate over the lazy dog 
-The slow lazy fridge jumped over the lazy dog 
-The slow lazy fridge jumps over the lazy dog 
-The slow lazy fridge skipped over the lazy dog 
-The slow lazy fridge ate over the lazy dog 
-The slow excited fox jumped over the lazy dog 
-The slow excited fox jumps over the lazy dog 
-The slow excited fox skipped over the lazy dog 
-The slow excited fox ate over the lazy dog 
-The slow excited dog jumped over the lazy dog 
-The slow excited dog jumps over the lazy dog 
-The slow excited dog skipped over the lazy dog 
-The slow excited dog ate over the lazy dog 
-The slow excited fridge jumped over the lazy dog 
-The slow excited fridge jumps over the lazy dog 
-The slow excited fridge skipped over the lazy dog 
-The slow excited fridge ate over the lazy dog 
-A quick brown fox jumped over the lazy dog 
-A quick brown fox jumps over the lazy dog 
-A quick brown fox skipped over the lazy dog 
-A quick brown fox ate over the lazy dog 
-A quick brown dog jumped over the lazy dog 
-A quick brown dog jumps over the lazy dog 
-A quick brown dog skipped over the lazy dog 
-A quick brown dog ate over the lazy dog 
-A quick brown fridge jumped over the lazy dog 
-A quick brown fridge jumps over the lazy dog 
-A quick brown fridge skipped over the lazy dog 
-A quick brown fridge ate over the lazy dog 
-A quick green fox jumped over the lazy dog 
-A quick green fox jumps over the lazy dog 
-A quick green fox skipped over the lazy dog 
-A quick green fox ate over the lazy dog 
-A quick green dog jumped over the lazy dog 
-A quick green dog jumps over the lazy dog 
-A quick green dog skipped over the lazy dog 
-A quick green dog ate over the lazy dog 
-A quick green fridge jumped over the lazy dog 
-A quick green fridge jumps over the lazy dog 
-A quick green fridge skipped over the lazy dog 
-A quick green fridge ate over the lazy dog 
-A quick lazy fox jumped over the lazy dog 
-A quick lazy fox jumps over the lazy dog 
-A quick lazy fox skipped over the lazy dog 
-A quick lazy fox ate over the lazy dog 
-A quick lazy dog jumped over the lazy dog 
-A quick lazy dog jumps over the lazy dog 
-A quick lazy dog skipped over the lazy dog 
-A quick lazy dog ate over the lazy dog 
-A quick lazy fridge jumped over the lazy dog 
-A quick lazy fridge jumps over the lazy dog 
-A quick lazy fridge skipped over the lazy dog 
-A quick lazy fridge ate over the lazy dog 
-A quick excited fox jumped over the lazy dog 
-A quick excited fox jumps over the lazy dog 
-A quick excited fox skipped over the lazy dog 
-A quick excited fox ate over the lazy dog 
-A quick excited dog jumped over the lazy dog 
-A quick excited dog jumps over the lazy dog 
-A quick excited dog skipped over the lazy dog 
-A quick excited dog ate over the lazy dog 
-A quick excited fridge jumped over the lazy dog 
-A quick excited fridge jumps over the lazy dog 
-A quick excited fridge skipped over the lazy dog 
-A quick excited fridge ate over the lazy dog 
-A red brown fox jumped over the lazy dog 
-A red brown fox jumps over the lazy dog 
-A red brown fox skipped over the lazy dog 
-A red brown fox ate over the lazy dog 
-A red brown dog jumped over the lazy dog 
-A red brown dog jumps over the lazy dog 
-A red brown dog skipped over the lazy dog 
-A red brown dog ate over the lazy dog 
-A red brown fridge jumped over the lazy dog 
-A red brown fridge jumps over the lazy dog 
-A red brown fridge skipped over the lazy dog 
-A red brown fridge ate over the lazy dog 
-A red green fox jumped over the lazy dog 
-A red green fox jumps over the lazy dog 
-A red green fox skipped over the lazy dog 
-A red green fox ate over the lazy dog 
-A red green dog jumped over the lazy dog 
-A red green dog jumps over the lazy dog 
-A red green dog skipped over the lazy dog 
-A red green dog ate over the lazy dog 
-A red green fridge jumped over the lazy dog 
-A red green fridge jumps over the lazy dog 
-A red green fridge skipped over the lazy dog 
-A red green fridge ate over the lazy dog 
-A red lazy fox jumped over the lazy dog 
-A red lazy fox jumps over the lazy dog 
-A red lazy fox skipped over the lazy dog 
-A red lazy fox ate over the lazy dog 
-A red lazy dog jumped over the lazy dog 
-A red lazy dog jumps over the lazy dog 
-A red lazy dog skipped over the lazy dog 
-A red lazy dog ate over the lazy dog 
-A red lazy fridge jumped over the lazy dog 
-A red lazy fridge jumps over the lazy dog 
-A red lazy fridge skipped over the lazy dog 
-A red lazy fridge ate over the lazy dog 
-A red excited fox jumped over the lazy dog 
-A red excited fox jumps over the lazy dog 
-A red excited fox skipped over the lazy dog 
-A red excited fox ate over the lazy dog 
-A red excited dog jumped over the lazy dog 
-A red excited dog jumps over the lazy dog 
-A red excited dog skipped over the lazy dog 
-A red excited dog ate over the lazy dog 
-A red excited fridge jumped over the lazy dog 
-A red excited fridge jumps over the lazy dog 
-A red excited fridge skipped over the lazy dog 
-A red excited fridge ate over the lazy dog 
-A slow brown fox jumped over the lazy dog 
-A slow brown fox jumps over the lazy dog 
-A slow brown fox skipped over the lazy dog 
-A slow brown fox ate over the lazy dog 
-A slow brown dog jumped over the lazy dog 
-A slow brown dog jumps over the lazy dog 
-A slow brown dog skipped over the lazy dog 
-A slow brown dog ate over the lazy dog 
-A slow brown fridge jumped over the lazy dog 
-A slow brown fridge jumps over the lazy dog 
-A slow brown fridge skipped over the lazy dog 
-A slow brown fridge ate over the lazy dog 
-A slow green fox jumped over the lazy dog 
-A slow green fox jumps over the lazy dog 
-A slow green fox skipped over the lazy dog 
-A slow green fox ate over the lazy dog 
-A slow green dog jumped over the lazy dog 
-A slow green dog jumps over the lazy dog 
-A slow green dog skipped over the lazy dog 
-A slow green dog ate over the lazy dog 
-A slow green fridge jumped over the lazy dog 
-A slow green fridge jumps over the lazy dog 
-A slow green fridge skipped over the lazy dog 
-A slow green fridge ate over the lazy dog 
-A slow lazy fox jumped over the lazy dog 
-A slow lazy fox jumps over the lazy dog 
-A slow lazy fox skipped over the lazy dog 
-A slow lazy fox ate over the lazy dog 
-A slow lazy dog jumped over the lazy dog 
-A slow lazy dog jumps over the lazy dog 
-A slow lazy dog skipped over the lazy dog 
-A slow lazy dog ate over the lazy dog 
-A slow lazy fridge jumped over the lazy dog 
-A slow lazy fridge jumps over the lazy dog 
-A slow lazy fridge skipped over the lazy dog 
-A slow lazy fridge ate over the lazy dog 
-A slow excited fox jumped over the lazy dog 
-A slow excited fox jumps over the lazy dog 
-A slow excited fox skipped over the lazy dog 
-A slow excited fox ate over the lazy dog 
-A slow excited dog jumped over the lazy dog 
-A slow excited dog jumps over the lazy dog 
-A slow excited dog skipped over the lazy dog 
-A slow excited dog ate over the lazy dog 
-A slow excited fridge jumped over the lazy dog 
-A slow excited fridge jumps over the lazy dog 
-A slow excited fridge skipped over the lazy dog 
-A slow excited fridge ate over the lazy dog 
-Two quick brown fox jumped over the lazy dog 
-Two quick brown fox jumps over the lazy dog 
-Two quick brown fox skipped over the lazy dog 
-Two quick brown fox ate over the lazy dog 
-Two quick brown dog jumped over the lazy dog 
-Two quick brown dog jumps over the lazy dog 
-Two quick brown dog skipped over the lazy dog 
-Two quick brown dog ate over the lazy dog 
-Two quick brown fridge jumped over the lazy dog 
-Two quick brown fridge jumps over the lazy dog 
-Two quick brown fridge skipped over the lazy dog 
-Two quick brown fridge ate over the lazy dog 
-Two quick green fox jumped over the lazy dog 
-Two quick green fox jumps over the lazy dog 
-Two quick green fox skipped over the lazy dog 
-Two quick green fox ate over the lazy dog 
-Two quick green dog jumped over the lazy dog 
-Two quick green dog jumps over the lazy dog 
-Two quick green dog skipped over the lazy dog 
-Two quick green dog ate over the lazy dog 
-Two quick green fridge jumped over the lazy dog 
-Two quick green fridge jumps over the lazy dog 
-Two quick green fridge skipped over the lazy dog 
-Two quick green fridge ate over the lazy dog 
-Two quick lazy fox jumped over the lazy dog 
-Two quick lazy fox jumps over the lazy dog 
-Two quick lazy fox skipped over the lazy dog 
-Two quick lazy fox ate over the lazy dog 
-Two quick lazy dog jumped over the lazy dog 
-Two quick lazy dog jumps over the lazy dog 
-Two quick lazy dog skipped over the lazy dog 
-Two quick lazy dog ate over the lazy dog 
-Two quick lazy fridge jumped over the lazy dog 
-Two quick lazy fridge jumps over the lazy dog 
-Two quick lazy fridge skipped over the lazy dog 
-Two quick lazy fridge ate over the lazy dog 
-Two quick excited fox jumped over the lazy dog 
-Two quick excited fox jumps over the lazy dog 
-Two quick excited fox skipped over the lazy dog 
-Two quick excited fox ate over the lazy dog 
-Two quick excited dog jumped over the lazy dog 
-Two quick excited dog jumps over the lazy dog 
-Two quick excited dog skipped over the lazy dog 
-Two quick excited dog ate over the lazy dog 
-Two quick excited fridge jumped over the lazy dog 
-Two quick excited fridge jumps over the lazy dog 
-Two quick excited fridge skipped over the lazy dog 
-Two quick excited fridge ate over the lazy dog 
-Two red brown fox jumped over the lazy dog 
-Two red brown fox jumps over the lazy dog 
-Two red brown fox skipped over the lazy dog 
-Two red brown fox ate over the lazy dog 
-Two red brown dog jumped over the lazy dog 
-Two red brown dog jumps over the lazy dog 
-Two red brown dog skipped over the lazy dog 
-Two red brown dog ate over the lazy dog 
-Two red brown fridge jumped over the lazy dog 
-Two red brown fridge jumps over the lazy dog 
-Two red brown fridge skipped over the lazy dog 
-Two red brown fridge ate over the lazy dog 
-Two red green fox jumped over the lazy dog 
-Two red green fox jumps over the lazy dog 
-Two red green fox skipped over the lazy dog 
-Two red green fox ate over the lazy dog 
-Two red green dog jumped over the lazy dog 
-Two red green dog jumps over the lazy dog 
-Two red green dog skipped over the lazy dog 
-Two red green dog ate over the lazy dog 
-Two red green fridge jumped over the lazy dog 
-Two red green fridge jumps over the lazy dog 
-Two red green fridge skipped over the lazy dog 
-Two red green fridge ate over the lazy dog 
-Two red lazy fox jumped over the lazy dog 
-Two red lazy fox jumps over the lazy dog 
-Two red lazy fox skipped over the lazy dog 
-Two red lazy fox ate over the lazy dog 
-Two red lazy dog jumped over the lazy dog 
-Two red lazy dog jumps over the lazy dog 
-Two red lazy dog skipped over the lazy dog 
-Two red lazy dog ate over the lazy dog 
-Two red lazy fridge jumped over the lazy dog 
-Two red lazy fridge jumps over the lazy dog 
-Two red lazy fridge skipped over the lazy dog 
-Two red lazy fridge ate over the lazy dog 
-Two red excited fox jumped over the lazy dog 
-Two red excited fox jumps over the lazy dog 
-Two red excited fox skipped over the lazy dog 
-Two red excited fox ate over the lazy dog 
-Two red excited dog jumped over the lazy dog 
-Two red excited dog jumps over the lazy dog 
-Two red excited dog skipped over the lazy dog 
-Two red excited dog ate over the lazy dog 
-Two red excited fridge jumped over the lazy dog 
-Two red excited fridge jumps over the lazy dog 
-Two red excited fridge skipped over the lazy dog 
-Two red excited fridge ate over the lazy dog 
-Two slow brown fox jumped over the lazy dog 
-Two slow brown fox jumps over the lazy dog 
-Two slow brown fox skipped over the lazy dog 
-Two slow brown fox ate over the lazy dog 
-Two slow brown dog jumped over the lazy dog 
-Two slow brown dog jumps over the lazy dog 
-Two slow brown dog skipped over the lazy dog 
-Two slow brown dog ate over the lazy dog 
-Two slow brown fridge jumped over the lazy dog 
-Two slow brown fridge jumps over the lazy dog 
-Two slow brown fridge skipped over the lazy dog 
-Two slow brown fridge ate over the lazy dog 
-Two slow green fox jumped over the lazy dog 
-Two slow green fox jumps over the lazy dog 
-Two slow green fox skipped over the lazy dog 
-Two slow green fox ate over the lazy dog 
-Two slow green dog jumped over the lazy dog 
-Two slow green dog jumps over the lazy dog 
-Two slow green dog skipped over the lazy dog 
-Two slow green dog ate over the lazy dog 
-Two slow green fridge jumped over the lazy dog 
-Two slow green fridge jumps over the lazy dog 
-Two slow green fridge skipped over the lazy dog 
-Two slow green fridge ate over the lazy dog 
-Two slow lazy fox jumped over the lazy dog 
-Two slow lazy fox jumps over the lazy dog 
-Two slow lazy fox skipped over the lazy dog 
-Two slow lazy fox ate over the lazy dog 
-Two slow lazy dog jumped over the lazy dog 
-Two slow lazy dog jumps over the lazy dog 
-Two slow lazy dog skipped over the lazy dog 
-Two slow lazy dog ate over the lazy dog 
-Two slow lazy fridge jumped over the lazy dog 
-Two slow lazy fridge jumps over the lazy dog 
-Two slow lazy fridge skipped over the lazy dog 
-Two slow lazy fridge ate over the lazy dog 
-Two slow excited fox jumped over the lazy dog 
-Two slow excited fox jumps over the lazy dog 
-Two slow excited fox skipped over the lazy dog 
-Two slow excited fox ate over the lazy dog 
-Two slow excited dog jumped over the lazy dog 
-Two slow excited dog jumps over the lazy dog 
-Two slow excited dog skipped over the lazy dog 
-Two slow excited dog ate over the lazy dog 
-Two slow excited fridge jumped over the lazy dog 
-Two slow excited fridge jumps over the lazy dog 
-Two slow excited fridge skipped over the lazy dog 
-Two slow excited fridge ate over the lazy dog 
+<s> The quick brown fox jumped over the lazy dog </s> 
+<s> The quick brown fox jumps over the lazy dog </s> 
+<s> The quick brown fox skipped over the lazy dog </s> 
+<s> The quick brown fox ate over the lazy dog </s> 
+<s> The quick brown dog jumped over the lazy dog </s> 
+<s> The quick brown dog jumps over the lazy dog </s> 
+<s> The quick brown dog skipped over the lazy dog </s> 
+<s> The quick brown dog ate over the lazy dog </s> 
+<s> The quick brown fridge jumped over the lazy dog </s> 
+<s> The quick brown fridge jumps over the lazy dog </s> 
+<s> The quick brown fridge skipped over the lazy dog </s> 
+<s> The quick brown fridge ate over the lazy dog </s> 
+<s> The quick green fox jumped over the lazy dog </s> 
+<s> The quick green fox jumps over the lazy dog </s> 
+<s> The quick green fox skipped over the lazy dog </s> 
+<s> The quick green fox ate over the lazy dog </s> 
+<s> The quick green dog jumped over the lazy dog </s> 
+<s> The quick green dog jumps over the lazy dog </s> 
+<s> The quick green dog skipped over the lazy dog </s> 
+<s> The quick green dog ate over the lazy dog </s> 
+<s> The quick green fridge jumped over the lazy dog </s> 
+<s> The quick green fridge jumps over the lazy dog </s> 
+<s> The quick green fridge skipped over the lazy dog </s> 
+<s> The quick green fridge ate over the lazy dog </s> 
+<s> The quick lazy fox jumped over the lazy dog </s> 
+<s> The quick lazy fox jumps over the lazy dog </s> 
+<s> The quick lazy fox skipped over the lazy dog </s> 
+<s> The quick lazy fox ate over the lazy dog </s> 
+<s> The quick lazy dog jumped over the lazy dog </s> 
+<s> The quick lazy dog jumps over the lazy dog </s> 
+<s> The quick lazy dog skipped over the lazy dog </s> 
+<s> The quick lazy dog ate over the lazy dog </s> 
+<s> The quick lazy fridge jumped over the lazy dog </s> 
+<s> The quick lazy fridge jumps over the lazy dog </s> 
+<s> The quick lazy fridge skipped over the lazy dog </s> 
+<s> The quick lazy fridge ate over the lazy dog </s> 
+<s> The quick excited fox jumped over the lazy dog </s> 
+<s> The quick excited fox jumps over the lazy dog </s> 
+<s> The quick excited fox skipped over the lazy dog </s> 
+<s> The quick excited fox ate over the lazy dog </s> 
+<s> The quick excited dog jumped over the lazy dog </s> 
+<s> The quick excited dog jumps over the lazy dog </s> 
+<s> The quick excited dog skipped over the lazy dog </s> 
+<s> The quick excited dog ate over the lazy dog </s> 
+<s> The quick excited fridge jumped over the lazy dog </s> 
+<s> The quick excited fridge jumps over the lazy dog </s> 
+<s> The quick excited fridge skipped over the lazy dog </s> 
+<s> The quick excited fridge ate over the lazy dog </s> 
+<s> The red brown fox jumped over the lazy dog </s> 
+<s> The red brown fox jumps over the lazy dog </s> 
+<s> The red brown fox skipped over the lazy dog </s> 
+<s> The red brown fox ate over the lazy dog </s> 
+<s> The red brown dog jumped over the lazy dog </s> 
+<s> The red brown dog jumps over the lazy dog </s> 
+<s> The red brown dog skipped over the lazy dog </s> 
+<s> The red brown dog ate over the lazy dog </s> 
+<s> The red brown fridge jumped over the lazy dog </s> 
+<s> The red brown fridge jumps over the lazy dog </s> 
+<s> The red brown fridge skipped over the lazy dog </s> 
+<s> The red brown fridge ate over the lazy dog </s> 
+<s> The red green fox jumped over the lazy dog </s> 
+<s> The red green fox jumps over the lazy dog </s> 
+<s> The red green fox skipped over the lazy dog </s> 
+<s> The red green fox ate over the lazy dog </s> 
+<s> The red green dog jumped over the lazy dog </s> 
+<s> The red green dog jumps over the lazy dog </s> 
+<s> The red green dog skipped over the lazy dog </s> 
+<s> The red green dog ate over the lazy dog </s> 
+<s> The red green fridge jumped over the lazy dog </s> 
+<s> The red green fridge jumps over the lazy dog </s> 
+<s> The red green fridge skipped over the lazy dog </s> 
+<s> The red green fridge ate over the lazy dog </s> 
+<s> The red lazy fox jumped over the lazy dog </s> 
+<s> The red lazy fox jumps over the lazy dog </s> 
+<s> The red lazy fox skipped over the lazy dog </s> 
+<s> The red lazy fox ate over the lazy dog </s> 
+<s> The red lazy dog jumped over the lazy dog </s> 
+<s> The red lazy dog jumps over the lazy dog </s> 
+<s> The red lazy dog skipped over the lazy dog </s> 
+<s> The red lazy dog ate over the lazy dog </s> 
+<s> The red lazy fridge jumped over the lazy dog </s> 
+<s> The red lazy fridge jumps over the lazy dog </s> 
+<s> The red lazy fridge skipped over the lazy dog </s> 
+<s> The red lazy fridge ate over the lazy dog </s> 
+<s> The red excited fox jumped over the lazy dog </s> 
+<s> The red excited fox jumps over the lazy dog </s> 
+<s> The red excited fox skipped over the lazy dog </s> 
+<s> The red excited fox ate over the lazy dog </s> 
+<s> The red excited dog jumped over the lazy dog </s> 
+<s> The red excited dog jumps over the lazy dog </s> 
+<s> The red excited dog skipped over the lazy dog </s> 
+<s> The red excited dog ate over the lazy dog </s> 
+<s> The red excited fridge jumped over the lazy dog </s> 
+<s> The red excited fridge jumps over the lazy dog </s> 
+<s> The red excited fridge skipped over the lazy dog </s> 
+<s> The red excited fridge ate over the lazy dog </s> 
+<s> The slow brown fox jumped over the lazy dog </s> 
+<s> The slow brown fox jumps over the lazy dog </s> 
+<s> The slow brown fox skipped over the lazy dog </s> 
+<s> The slow brown fox ate over the lazy dog </s> 
+<s> The slow brown dog jumped over the lazy dog </s> 
+<s> The slow brown dog jumps over the lazy dog </s> 
+<s> The slow brown dog skipped over the lazy dog </s> 
+<s> The slow brown dog ate over the lazy dog </s> 
+<s> The slow brown fridge jumped over the lazy dog </s> 
+<s> The slow brown fridge jumps over the lazy dog </s> 
+<s> The slow brown fridge skipped over the lazy dog </s> 
+<s> The slow brown fridge ate over the lazy dog </s> 
+<s> The slow green fox jumped over the lazy dog </s> 
+<s> The slow green fox jumps over the lazy dog </s> 
+<s> The slow green fox skipped over the lazy dog </s> 
+<s> The slow green fox ate over the lazy dog </s> 
+<s> The slow green dog jumped over the lazy dog </s> 
+<s> The slow green dog jumps over the lazy dog </s> 
+<s> The slow green dog skipped over the lazy dog </s> 
+<s> The slow green dog ate over the lazy dog </s> 
+<s> The slow green fridge jumped over the lazy dog </s> 
+<s> The slow green fridge jumps over the lazy dog </s> 
+<s> The slow green fridge skipped over the lazy dog </s> 
+<s> The slow green fridge ate over the lazy dog </s> 
+<s> The slow lazy fox jumped over the lazy dog </s> 
+<s> The slow lazy fox jumps over the lazy dog </s> 
+<s> The slow lazy fox skipped over the lazy dog </s> 
+<s> The slow lazy fox ate over the lazy dog </s> 
+<s> The slow lazy dog jumped over the lazy dog </s> 
+<s> The slow lazy dog jumps over the lazy dog </s> 
+<s> The slow lazy dog skipped over the lazy dog </s> 
+<s> The slow lazy dog ate over the lazy dog </s> 
+<s> The slow lazy fridge jumped over the lazy dog </s> 
+<s> The slow lazy fridge jumps over the lazy dog </s> 
+<s> The slow lazy fridge skipped over the lazy dog </s> 
+<s> The slow lazy fridge ate over the lazy dog </s> 
+<s> The slow excited fox jumped over the lazy dog </s> 
+<s> The slow excited fox jumps over the lazy dog </s> 
+<s> The slow excited fox skipped over the lazy dog </s> 
+<s> The slow excited fox ate over the lazy dog </s> 
+<s> The slow excited dog jumped over the lazy dog </s> 
+<s> The slow excited dog jumps over the lazy dog </s> 
+<s> The slow excited dog skipped over the lazy dog </s> 
+<s> The slow excited dog ate over the lazy dog </s> 
+<s> The slow excited fridge jumped over the lazy dog </s> 
+<s> The slow excited fridge jumps over the lazy dog </s> 
+<s> The slow excited fridge skipped over the lazy dog </s> 
+<s> The slow excited fridge ate over the lazy dog </s> 
+<s> A quick brown fox jumped over the lazy dog </s> 
+<s> A quick brown fox jumps over the lazy dog </s> 
+<s> A quick brown fox skipped over the lazy dog </s> 
+<s> A quick brown fox ate over the lazy dog </s> 
+<s> A quick brown dog jumped over the lazy dog </s> 
+<s> A quick brown dog jumps over the lazy dog </s> 
+<s> A quick brown dog skipped over the lazy dog </s> 
+<s> A quick brown dog ate over the lazy dog </s> 
+<s> A quick brown fridge jumped over the lazy dog </s> 
+<s> A quick brown fridge jumps over the lazy dog </s> 
+<s> A quick brown fridge skipped over the lazy dog </s> 
+<s> A quick brown fridge ate over the lazy dog </s> 
+<s> A quick green fox jumped over the lazy dog </s> 
+<s> A quick green fox jumps over the lazy dog </s> 
+<s> A quick green fox skipped over the lazy dog </s> 
+<s> A quick green fox ate over the lazy dog </s> 
+<s> A quick green dog jumped over the lazy dog </s> 
+<s> A quick green dog jumps over the lazy dog </s> 
+<s> A quick green dog skipped over the lazy dog </s> 
+<s> A quick green dog ate over the lazy dog </s> 
+<s> A quick green fridge jumped over the lazy dog </s> 
+<s> A quick green fridge jumps over the lazy dog </s> 
+<s> A quick green fridge skipped over the lazy dog </s> 
+<s> A quick green fridge ate over the lazy dog </s> 
+<s> A quick lazy fox jumped over the lazy dog </s> 
+<s> A quick lazy fox jumps over the lazy dog </s> 
+<s> A quick lazy fox skipped over the lazy dog </s> 
+<s> A quick lazy fox ate over the lazy dog </s> 
+<s> A quick lazy dog jumped over the lazy dog </s> 
+<s> A quick lazy dog jumps over the lazy dog </s> 
+<s> A quick lazy dog skipped over the lazy dog </s> 
+<s> A quick lazy dog ate over the lazy dog </s> 
+<s> A quick lazy fridge jumped over the lazy dog </s> 
+<s> A quick lazy fridge jumps over the lazy dog </s> 
+<s> A quick lazy fridge skipped over the lazy dog </s> 
+<s> A quick lazy fridge ate over the lazy dog </s> 
+<s> A quick excited fox jumped over the lazy dog </s> 
+<s> A quick excited fox jumps over the lazy dog </s> 
+<s> A quick excited fox skipped over the lazy dog </s> 
+<s> A quick excited fox ate over the lazy dog </s> 
+<s> A quick excited dog jumped over the lazy dog </s> 
+<s> A quick excited dog jumps over the lazy dog </s> 
+<s> A quick excited dog skipped over the lazy dog </s> 
+<s> A quick excited dog ate over the lazy dog </s> 
+<s> A quick excited fridge jumped over the lazy dog </s> 
+<s> A quick excited fridge jumps over the lazy dog </s> 
+<s> A quick excited fridge skipped over the lazy dog </s> 
+<s> A quick excited fridge ate over the lazy dog </s> 
+<s> A red brown fox jumped over the lazy dog </s> 
+<s> A red brown fox jumps over the lazy dog </s> 
+<s> A red brown fox skipped over the lazy dog </s> 
+<s> A red brown fox ate over the lazy dog </s> 
+<s> A red brown dog jumped over the lazy dog </s> 
+<s> A red brown dog jumps over the lazy dog </s> 
+<s> A red brown dog skipped over the lazy dog </s> 
+<s> A red brown dog ate over the lazy dog </s> 
+<s> A red brown fridge jumped over the lazy dog </s> 
+<s> A red brown fridge jumps over the lazy dog </s> 
+<s> A red brown fridge skipped over the lazy dog </s> 
+<s> A red brown fridge ate over the lazy dog </s> 
+<s> A red green fox jumped over the lazy dog </s> 
+<s> A red green fox jumps over the lazy dog </s> 
+<s> A red green fox skipped over the lazy dog </s> 
+<s> A red green fox ate over the lazy dog </s> 
+<s> A red green dog jumped over the lazy dog </s> 
+<s> A red green dog jumps over the lazy dog </s> 
+<s> A red green dog skipped over the lazy dog </s> 
+<s> A red green dog ate over the lazy dog </s> 
+<s> A red green fridge jumped over the lazy dog </s> 
+<s> A red green fridge jumps over the lazy dog </s> 
+<s> A red green fridge skipped over the lazy dog </s> 
+<s> A red green fridge ate over the lazy dog </s> 
+<s> A red lazy fox jumped over the lazy dog </s> 
+<s> A red lazy fox jumps over the lazy dog </s> 
+<s> A red lazy fox skipped over the lazy dog </s> 
+<s> A red lazy fox ate over the lazy dog </s> 
+<s> A red lazy dog jumped over the lazy dog </s> 
+<s> A red lazy dog jumps over the lazy dog </s> 
+<s> A red lazy dog skipped over the lazy dog </s> 
+<s> A red lazy dog ate over the lazy dog </s> 
+<s> A red lazy fridge jumped over the lazy dog </s> 
+<s> A red lazy fridge jumps over the lazy dog </s> 
+<s> A red lazy fridge skipped over the lazy dog </s> 
+<s> A red lazy fridge ate over the lazy dog </s> 
+<s> A red excited fox jumped over the lazy dog </s> 
+<s> A red excited fox jumps over the lazy dog </s> 
+<s> A red excited fox skipped over the lazy dog </s> 
+<s> A red excited fox ate over the lazy dog </s> 
+<s> A red excited dog jumped over the lazy dog </s> 
+<s> A red excited dog jumps over the lazy dog </s> 
+<s> A red excited dog skipped over the lazy dog </s> 
+<s> A red excited dog ate over the lazy dog </s> 
+<s> A red excited fridge jumped over the lazy dog </s> 
+<s> A red excited fridge jumps over the lazy dog </s> 
+<s> A red excited fridge skipped over the lazy dog </s> 
+<s> A red excited fridge ate over the lazy dog </s> 
+<s> A slow brown fox jumped over the lazy dog </s> 
+<s> A slow brown fox jumps over the lazy dog </s> 
+<s> A slow brown fox skipped over the lazy dog </s> 
+<s> A slow brown fox ate over the lazy dog </s> 
+<s> A slow brown dog jumped over the lazy dog </s> 
+<s> A slow brown dog jumps over the lazy dog </s> 
+<s> A slow brown dog skipped over the lazy dog </s> 
+<s> A slow brown dog ate over the lazy dog </s> 
+<s> A slow brown fridge jumped over the lazy dog </s> 
+<s> A slow brown fridge jumps over the lazy dog </s> 
+<s> A slow brown fridge skipped over the lazy dog </s> 
+<s> A slow brown fridge ate over the lazy dog </s> 
+<s> A slow green fox jumped over the lazy dog </s> 
+<s> A slow green fox jumps over the lazy dog </s> 
+<s> A slow green fox skipped over the lazy dog </s> 
+<s> A slow green fox ate over the lazy dog </s> 
+<s> A slow green dog jumped over the lazy dog </s> 
+<s> A slow green dog jumps over the lazy dog </s> 
+<s> A slow green dog skipped over the lazy dog </s> 
+<s> A slow green dog ate over the lazy dog </s> 
+<s> A slow green fridge jumped over the lazy dog </s> 
+<s> A slow green fridge jumps over the lazy dog </s> 
+<s> A slow green fridge skipped over the lazy dog </s> 
+<s> A slow green fridge ate over the lazy dog </s> 
+<s> A slow lazy fox jumped over the lazy dog </s> 
+<s> A slow lazy fox jumps over the lazy dog </s> 
+<s> A slow lazy fox skipped over the lazy dog </s> 
+<s> A slow lazy fox ate over the lazy dog </s> 
+<s> A slow lazy dog jumped over the lazy dog </s> 
+<s> A slow lazy dog jumps over the lazy dog </s> 
+<s> A slow lazy dog skipped over the lazy dog </s> 
+<s> A slow lazy dog ate over the lazy dog </s> 
+<s> A slow lazy fridge jumped over the lazy dog </s> 
+<s> A slow lazy fridge jumps over the lazy dog </s> 
+<s> A slow lazy fridge skipped over the lazy dog </s> 
+<s> A slow lazy fridge ate over the lazy dog </s> 
+<s> A slow excited fox jumped over the lazy dog </s> 
+<s> A slow excited fox jumps over the lazy dog </s> 
+<s> A slow excited fox skipped over the lazy dog </s> 
+<s> A slow excited fox ate over the lazy dog </s> 
+<s> A slow excited dog jumped over the lazy dog </s> 
+<s> A slow excited dog jumps over the lazy dog </s> 
+<s> A slow excited dog skipped over the lazy dog </s> 
+<s> A slow excited dog ate over the lazy dog </s> 
+<s> A slow excited fridge jumped over the lazy dog </s> 
+<s> A slow excited fridge jumps over the lazy dog </s> 
+<s> A slow excited fridge skipped over the lazy dog </s> 
+<s> A slow excited fridge ate over the lazy dog </s> 
+<s> Two quick brown fox jumped over the lazy dog </s> 
+<s> Two quick brown fox jumps over the lazy dog </s> 
+<s> Two quick brown fox skipped over the lazy dog </s> 
+<s> Two quick brown fox ate over the lazy dog </s> 
+<s> Two quick brown dog jumped over the lazy dog </s> 
+<s> Two quick brown dog jumps over the lazy dog </s> 
+<s> Two quick brown dog skipped over the lazy dog </s> 
+<s> Two quick brown dog ate over the lazy dog </s> 
+<s> Two quick brown fridge jumped over the lazy dog </s> 
+<s> Two quick brown fridge jumps over the lazy dog </s> 
+<s> Two quick brown fridge skipped over the lazy dog </s> 
+<s> Two quick brown fridge ate over the lazy dog </s> 
+<s> Two quick green fox jumped over the lazy dog </s> 
+<s> Two quick green fox jumps over the lazy dog </s> 
+<s> Two quick green fox skipped over the lazy dog </s> 
+<s> Two quick green fox ate over the lazy dog </s> 
+<s> Two quick green dog jumped over the lazy dog </s> 
+<s> Two quick green dog jumps over the lazy dog </s> 
+<s> Two quick green dog skipped over the lazy dog </s> 
+<s> Two quick green dog ate over the lazy dog </s> 
+<s> Two quick green fridge jumped over the lazy dog </s> 
+<s> Two quick green fridge jumps over the lazy dog </s> 
+<s> Two quick green fridge skipped over the lazy dog </s> 
+<s> Two quick green fridge ate over the lazy dog </s> 
+<s> Two quick lazy fox jumped over the lazy dog </s> 
+<s> Two quick lazy fox jumps over the lazy dog </s> 
+<s> Two quick lazy fox skipped over the lazy dog </s> 
+<s> Two quick lazy fox ate over the lazy dog </s> 
+<s> Two quick lazy dog jumped over the lazy dog </s> 
+<s> Two quick lazy dog jumps over the lazy dog </s> 
+<s> Two quick lazy dog skipped over the lazy dog </s> 
+<s> Two quick lazy dog ate over the lazy dog </s> 
+<s> Two quick lazy fridge jumped over the lazy dog </s> 
+<s> Two quick lazy fridge jumps over the lazy dog </s> 
+<s> Two quick lazy fridge skipped over the lazy dog </s> 
+<s> Two quick lazy fridge ate over the lazy dog </s> 
+<s> Two quick excited fox jumped over the lazy dog </s> 
+<s> Two quick excited fox jumps over the lazy dog </s> 
+<s> Two quick excited fox skipped over the lazy dog </s> 
+<s> Two quick excited fox ate over the lazy dog </s> 
+<s> Two quick excited dog jumped over the lazy dog </s> 
+<s> Two quick excited dog jumps over the lazy dog </s> 
+<s> Two quick excited dog skipped over the lazy dog </s> 
+<s> Two quick excited dog ate over the lazy dog </s> 
+<s> Two quick excited fridge jumped over the lazy dog </s> 
+<s> Two quick excited fridge jumps over the lazy dog </s> 
+<s> Two quick excited fridge skipped over the lazy dog </s> 
+<s> Two quick excited fridge ate over the lazy dog </s> 
+<s> Two red brown fox jumped over the lazy dog </s> 
+<s> Two red brown fox jumps over the lazy dog </s> 
+<s> Two red brown fox skipped over the lazy dog </s> 
+<s> Two red brown fox ate over the lazy dog </s> 
+<s> Two red brown dog jumped over the lazy dog </s> 
+<s> Two red brown dog jumps over the lazy dog </s> 
+<s> Two red brown dog skipped over the lazy dog </s> 
+<s> Two red brown dog ate over the lazy dog </s> 
+<s> Two red brown fridge jumped over the lazy dog </s> 
+<s> Two red brown fridge jumps over the lazy dog </s> 
+<s> Two red brown fridge skipped over the lazy dog </s> 
+<s> Two red brown fridge ate over the lazy dog </s> 
+<s> Two red green fox jumped over the lazy dog </s> 
+<s> Two red green fox jumps over the lazy dog </s> 
+<s> Two red green fox skipped over the lazy dog </s> 
+<s> Two red green fox ate over the lazy dog </s> 
+<s> Two red green dog jumped over the lazy dog </s> 
+<s> Two red green dog jumps over the lazy dog </s> 
+<s> Two red green dog skipped over the lazy dog </s> 
+<s> Two red green dog ate over the lazy dog </s> 
+<s> Two red green fridge jumped over the lazy dog </s> 
+<s> Two red green fridge jumps over the lazy dog </s> 
+<s> Two red green fridge skipped over the lazy dog </s> 
+<s> Two red green fridge ate over the lazy dog </s> 
+<s> Two red lazy fox jumped over the lazy dog </s> 
+<s> Two red lazy fox jumps over the lazy dog </s> 
+<s> Two red lazy fox skipped over the lazy dog </s> 
+<s> Two red lazy fox ate over the lazy dog </s> 
+<s> Two red lazy dog jumped over the lazy dog </s> 
+<s> Two red lazy dog jumps over the lazy dog </s> 
+<s> Two red lazy dog skipped over the lazy dog </s> 
+<s> Two red lazy dog ate over the lazy dog </s> 
+<s> Two red lazy fridge jumped over the lazy dog </s> 
+<s> Two red lazy fridge jumps over the lazy dog </s> 
+<s> Two red lazy fridge skipped over the lazy dog </s> 
+<s> Two red lazy fridge ate over the lazy dog </s> 
+<s> Two red excited fox jumped over the lazy dog </s> 
+<s> Two red excited fox jumps over the lazy dog </s> 
+<s> Two red excited fox skipped over the lazy dog </s> 
+<s> Two red excited fox ate over the lazy dog </s> 
+<s> Two red excited dog jumped over the lazy dog </s> 
+<s> Two red excited dog jumps over the lazy dog </s> 
+<s> Two red excited dog skipped over the lazy dog </s> 
+<s> Two red excited dog ate over the lazy dog </s> 
+<s> Two red excited fridge jumped over the lazy dog </s> 
+<s> Two red excited fridge jumps over the lazy dog </s> 
+<s> Two red excited fridge skipped over the lazy dog </s> 
+<s> Two red excited fridge ate over the lazy dog </s> 
+<s> Two slow brown fox jumped over the lazy dog </s> 
+<s> Two slow brown fox jumps over the lazy dog </s> 
+<s> Two slow brown fox skipped over the lazy dog </s> 
+<s> Two slow brown fox ate over the lazy dog </s> 
+<s> Two slow brown dog jumped over the lazy dog </s> 
+<s> Two slow brown dog jumps over the lazy dog </s> 
+<s> Two slow brown dog skipped over the lazy dog </s> 
+<s> Two slow brown dog ate over the lazy dog </s> 
+<s> Two slow brown fridge jumped over the lazy dog </s> 
+<s> Two slow brown fridge jumps over the lazy dog </s> 
+<s> Two slow brown fridge skipped over the lazy dog </s> 
+<s> Two slow brown fridge ate over the lazy dog </s> 
+<s> Two slow green fox jumped over the lazy dog </s> 
+<s> Two slow green fox jumps over the lazy dog </s> 
+<s> Two slow green fox skipped over the lazy dog </s> 
+<s> Two slow green fox ate over the lazy dog </s> 
+<s> Two slow green dog jumped over the lazy dog </s> 
+<s> Two slow green dog jumps over the lazy dog </s> 
+<s> Two slow green dog skipped over the lazy dog </s> 
+<s> Two slow green dog ate over the lazy dog </s> 
+<s> Two slow green fridge jumped over the lazy dog </s> 
+<s> Two slow green fridge jumps over the lazy dog </s> 
+<s> Two slow green fridge skipped over the lazy dog </s> 
+<s> Two slow green fridge ate over the lazy dog </s> 
+<s> Two slow lazy fox jumped over the lazy dog </s> 
+<s> Two slow lazy fox jumps over the lazy dog </s> 
+<s> Two slow lazy fox skipped over the lazy dog </s> 
+<s> Two slow lazy fox ate over the lazy dog </s> 
+<s> Two slow lazy dog jumped over the lazy dog </s> 
+<s> Two slow lazy dog jumps over the lazy dog </s> 
+<s> Two slow lazy dog skipped over the lazy dog </s> 
+<s> Two slow lazy dog ate over the lazy dog </s> 
+<s> Two slow lazy fridge jumped over the lazy dog </s> 
+<s> Two slow lazy fridge jumps over the lazy dog </s> 
+<s> Two slow lazy fridge skipped over the lazy dog </s> 
+<s> Two slow lazy fridge ate over the lazy dog </s> 
+<s> Two slow excited fox jumped over the lazy dog </s> 
+<s> Two slow excited fox jumps over the lazy dog </s> 
+<s> Two slow excited fox skipped over the lazy dog </s> 
+<s> Two slow excited fox ate over the lazy dog </s> 
+<s> Two slow excited dog jumped over the lazy dog </s> 
+<s> Two slow excited dog jumps over the lazy dog </s> 
+<s> Two slow excited dog skipped over the lazy dog </s> 
+<s> Two slow excited dog ate over the lazy dog </s> 
+<s> Two slow excited fridge jumped over the lazy dog </s> 
+<s> Two slow excited fridge jumps over the lazy dog </s> 
+<s> Two slow excited fridge skipped over the lazy dog </s> 
+<s> Two slow excited fridge ate over the lazy dog </s> 
