@@ -1,432 +1,432 @@
-<s> Der schnelle braune Fuchs sprang ueber den faulen hund </s> 
-<s> Der schnelle braune Fuchs springt ueber den faulen hund </s> 
-<s> Der schnelle braune Fuchs huepfte ueber den faulen hund </s> 
-<s> Der schnelle braune Fuchs ass ueber den faulen hund </s> 
-<s> Der schnelle braune Hund sprang ueber den faulen hund </s> 
-<s> Der schnelle braune Hund springt ueber den faulen hund </s> 
-<s> Der schnelle braune Hund huepfte ueber den faulen hund </s> 
-<s> Der schnelle braune Hund ass ueber den faulen hund </s> 
-<s> Der schnelle braune Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Der schnelle braune Kuehlschrank springt ueber den faulen hund </s> 
-<s> Der schnelle braune Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Der schnelle braune Kuehlschrank ass ueber den faulen hund </s> 
-<s> Der schnelle gruene Fuchs sprang ueber den faulen hund </s> 
-<s> Der schnelle gruene Fuchs springt ueber den faulen hund </s> 
-<s> Der schnelle gruene Fuchs huepfte ueber den faulen hund </s> 
-<s> Der schnelle gruene Fuchs ass ueber den faulen hund </s> 
-<s> Der schnelle gruene Hund sprang ueber den faulen hund </s> 
-<s> Der schnelle gruene Hund springt ueber den faulen hund </s> 
-<s> Der schnelle gruene Hund huepfte ueber den faulen hund </s> 
-<s> Der schnelle gruene Hund ass ueber den faulen hund </s> 
-<s> Der schnelle gruene Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Der schnelle gruene Kuehlschrank springt ueber den faulen hund </s> 
-<s> Der schnelle gruene Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Der schnelle gruene Kuehlschrank ass ueber den faulen hund </s> 
-<s> Der schnelle faule Fuchs sprang ueber den faulen hund </s> 
-<s> Der schnelle faule Fuchs springt ueber den faulen hund </s> 
-<s> Der schnelle faule Fuchs huepfte ueber den faulen hund </s> 
-<s> Der schnelle faule Fuchs ass ueber den faulen hund </s> 
-<s> Der schnelle faule Hund sprang ueber den faulen hund </s> 
-<s> Der schnelle faule Hund springt ueber den faulen hund </s> 
-<s> Der schnelle faule Hund huepfte ueber den faulen hund </s> 
-<s> Der schnelle faule Hund ass ueber den faulen hund </s> 
-<s> Der schnelle faule Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Der schnelle faule Kuehlschrank springt ueber den faulen hund </s> 
-<s> Der schnelle faule Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Der schnelle faule Kuehlschrank ass ueber den faulen hund </s> 
-<s> Der schnelle aufgeregte Fuchs sprang ueber den faulen hund </s> 
-<s> Der schnelle aufgeregte Fuchs springt ueber den faulen hund </s> 
-<s> Der schnelle aufgeregte Fuchs huepfte ueber den faulen hund </s> 
-<s> Der schnelle aufgeregte Fuchs ass ueber den faulen hund </s> 
-<s> Der schnelle aufgeregte Hund sprang ueber den faulen hund </s> 
-<s> Der schnelle aufgeregte Hund springt ueber den faulen hund </s> 
-<s> Der schnelle aufgeregte Hund huepfte ueber den faulen hund </s> 
-<s> Der schnelle aufgeregte Hund ass ueber den faulen hund </s> 
-<s> Der schnelle aufgeregte Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Der schnelle aufgeregte Kuehlschrank springt ueber den faulen hund </s> 
-<s> Der schnelle aufgeregte Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Der schnelle aufgeregte Kuehlschrank ass ueber den faulen hund </s> 
-<s> Der rote braune Fuchs sprang ueber den faulen hund </s> 
-<s> Der rote braune Fuchs springt ueber den faulen hund </s> 
-<s> Der rote braune Fuchs huepfte ueber den faulen hund </s> 
-<s> Der rote braune Fuchs ass ueber den faulen hund </s> 
-<s> Der rote braune Hund sprang ueber den faulen hund </s> 
-<s> Der rote braune Hund springt ueber den faulen hund </s> 
-<s> Der rote braune Hund huepfte ueber den faulen hund </s> 
-<s> Der rote braune Hund ass ueber den faulen hund </s> 
-<s> Der rote braune Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Der rote braune Kuehlschrank springt ueber den faulen hund </s> 
-<s> Der rote braune Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Der rote braune Kuehlschrank ass ueber den faulen hund </s> 
-<s> Der rote gruene Fuchs sprang ueber den faulen hund </s> 
-<s> Der rote gruene Fuchs springt ueber den faulen hund </s> 
-<s> Der rote gruene Fuchs huepfte ueber den faulen hund </s> 
-<s> Der rote gruene Fuchs ass ueber den faulen hund </s> 
-<s> Der rote gruene Hund sprang ueber den faulen hund </s> 
-<s> Der rote gruene Hund springt ueber den faulen hund </s> 
-<s> Der rote gruene Hund huepfte ueber den faulen hund </s> 
-<s> Der rote gruene Hund ass ueber den faulen hund </s> 
-<s> Der rote gruene Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Der rote gruene Kuehlschrank springt ueber den faulen hund </s> 
-<s> Der rote gruene Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Der rote gruene Kuehlschrank ass ueber den faulen hund </s> 
-<s> Der rote faule Fuchs sprang ueber den faulen hund </s> 
-<s> Der rote faule Fuchs springt ueber den faulen hund </s> 
-<s> Der rote faule Fuchs huepfte ueber den faulen hund </s> 
-<s> Der rote faule Fuchs ass ueber den faulen hund </s> 
-<s> Der rote faule Hund sprang ueber den faulen hund </s> 
-<s> Der rote faule Hund springt ueber den faulen hund </s> 
-<s> Der rote faule Hund huepfte ueber den faulen hund </s> 
-<s> Der rote faule Hund ass ueber den faulen hund </s> 
-<s> Der rote faule Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Der rote faule Kuehlschrank springt ueber den faulen hund </s> 
-<s> Der rote faule Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Der rote faule Kuehlschrank ass ueber den faulen hund </s> 
-<s> Der rote aufgeregte Fuchs sprang ueber den faulen hund </s> 
-<s> Der rote aufgeregte Fuchs springt ueber den faulen hund </s> 
-<s> Der rote aufgeregte Fuchs huepfte ueber den faulen hund </s> 
-<s> Der rote aufgeregte Fuchs ass ueber den faulen hund </s> 
-<s> Der rote aufgeregte Hund sprang ueber den faulen hund </s> 
-<s> Der rote aufgeregte Hund springt ueber den faulen hund </s> 
-<s> Der rote aufgeregte Hund huepfte ueber den faulen hund </s> 
-<s> Der rote aufgeregte Hund ass ueber den faulen hund </s> 
-<s> Der rote aufgeregte Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Der rote aufgeregte Kuehlschrank springt ueber den faulen hund </s> 
-<s> Der rote aufgeregte Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Der rote aufgeregte Kuehlschrank ass ueber den faulen hund </s> 
-<s> Der langsame braune Fuchs sprang ueber den faulen hund </s> 
-<s> Der langsame braune Fuchs springt ueber den faulen hund </s> 
-<s> Der langsame braune Fuchs huepfte ueber den faulen hund </s> 
-<s> Der langsame braune Fuchs ass ueber den faulen hund </s> 
-<s> Der langsame braune Hund sprang ueber den faulen hund </s> 
-<s> Der langsame braune Hund springt ueber den faulen hund </s> 
-<s> Der langsame braune Hund huepfte ueber den faulen hund </s> 
-<s> Der langsame braune Hund ass ueber den faulen hund </s> 
-<s> Der langsame braune Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Der langsame braune Kuehlschrank springt ueber den faulen hund </s> 
-<s> Der langsame braune Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Der langsame braune Kuehlschrank ass ueber den faulen hund </s> 
-<s> Der langsame gruene Fuchs sprang ueber den faulen hund </s> 
-<s> Der langsame gruene Fuchs springt ueber den faulen hund </s> 
-<s> Der langsame gruene Fuchs huepfte ueber den faulen hund </s> 
-<s> Der langsame gruene Fuchs ass ueber den faulen hund </s> 
-<s> Der langsame gruene Hund sprang ueber den faulen hund </s> 
-<s> Der langsame gruene Hund springt ueber den faulen hund </s> 
-<s> Der langsame gruene Hund huepfte ueber den faulen hund </s> 
-<s> Der langsame gruene Hund ass ueber den faulen hund </s> 
-<s> Der langsame gruene Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Der langsame gruene Kuehlschrank springt ueber den faulen hund </s> 
-<s> Der langsame gruene Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Der langsame gruene Kuehlschrank ass ueber den faulen hund </s> 
-<s> Der langsame faule Fuchs sprang ueber den faulen hund </s> 
-<s> Der langsame faule Fuchs springt ueber den faulen hund </s> 
-<s> Der langsame faule Fuchs huepfte ueber den faulen hund </s> 
-<s> Der langsame faule Fuchs ass ueber den faulen hund </s> 
-<s> Der langsame faule Hund sprang ueber den faulen hund </s> 
-<s> Der langsame faule Hund springt ueber den faulen hund </s> 
-<s> Der langsame faule Hund huepfte ueber den faulen hund </s> 
-<s> Der langsame faule Hund ass ueber den faulen hund </s> 
-<s> Der langsame faule Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Der langsame faule Kuehlschrank springt ueber den faulen hund </s> 
-<s> Der langsame faule Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Der langsame faule Kuehlschrank ass ueber den faulen hund </s> 
-<s> Der langsame aufgeregte Fuchs sprang ueber den faulen hund </s> 
-<s> Der langsame aufgeregte Fuchs springt ueber den faulen hund </s> 
-<s> Der langsame aufgeregte Fuchs huepfte ueber den faulen hund </s> 
-<s> Der langsame aufgeregte Fuchs ass ueber den faulen hund </s> 
-<s> Der langsame aufgeregte Hund sprang ueber den faulen hund </s> 
-<s> Der langsame aufgeregte Hund springt ueber den faulen hund </s> 
-<s> Der langsame aufgeregte Hund huepfte ueber den faulen hund </s> 
-<s> Der langsame aufgeregte Hund ass ueber den faulen hund </s> 
-<s> Der langsame aufgeregte Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Der langsame aufgeregte Kuehlschrank springt ueber den faulen hund </s> 
-<s> Der langsame aufgeregte Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Der langsame aufgeregte Kuehlschrank ass ueber den faulen hund </s> 
-<s> Ein schnelle braune Fuchs sprang ueber den faulen hund </s> 
-<s> Ein schnelle braune Fuchs springt ueber den faulen hund </s> 
-<s> Ein schnelle braune Fuchs huepfte ueber den faulen hund </s> 
-<s> Ein schnelle braune Fuchs ass ueber den faulen hund </s> 
-<s> Ein schnelle braune Hund sprang ueber den faulen hund </s> 
-<s> Ein schnelle braune Hund springt ueber den faulen hund </s> 
-<s> Ein schnelle braune Hund huepfte ueber den faulen hund </s> 
-<s> Ein schnelle braune Hund ass ueber den faulen hund </s> 
-<s> Ein schnelle braune Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Ein schnelle braune Kuehlschrank springt ueber den faulen hund </s> 
-<s> Ein schnelle braune Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Ein schnelle braune Kuehlschrank ass ueber den faulen hund </s> 
-<s> Ein schnelle gruene Fuchs sprang ueber den faulen hund </s> 
-<s> Ein schnelle gruene Fuchs springt ueber den faulen hund </s> 
-<s> Ein schnelle gruene Fuchs huepfte ueber den faulen hund </s> 
-<s> Ein schnelle gruene Fuchs ass ueber den faulen hund </s> 
-<s> Ein schnelle gruene Hund sprang ueber den faulen hund </s> 
-<s> Ein schnelle gruene Hund springt ueber den faulen hund </s> 
-<s> Ein schnelle gruene Hund huepfte ueber den faulen hund </s> 
-<s> Ein schnelle gruene Hund ass ueber den faulen hund </s> 
-<s> Ein schnelle gruene Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Ein schnelle gruene Kuehlschrank springt ueber den faulen hund </s> 
-<s> Ein schnelle gruene Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Ein schnelle gruene Kuehlschrank ass ueber den faulen hund </s> 
-<s> Ein schnelle faule Fuchs sprang ueber den faulen hund </s> 
-<s> Ein schnelle faule Fuchs springt ueber den faulen hund </s> 
-<s> Ein schnelle faule Fuchs huepfte ueber den faulen hund </s> 
-<s> Ein schnelle faule Fuchs ass ueber den faulen hund </s> 
-<s> Ein schnelle faule Hund sprang ueber den faulen hund </s> 
-<s> Ein schnelle faule Hund springt ueber den faulen hund </s> 
-<s> Ein schnelle faule Hund huepfte ueber den faulen hund </s> 
-<s> Ein schnelle faule Hund ass ueber den faulen hund </s> 
-<s> Ein schnelle faule Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Ein schnelle faule Kuehlschrank springt ueber den faulen hund </s> 
-<s> Ein schnelle faule Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Ein schnelle faule Kuehlschrank ass ueber den faulen hund </s> 
-<s> Ein schnelle aufgeregte Fuchs sprang ueber den faulen hund </s> 
-<s> Ein schnelle aufgeregte Fuchs springt ueber den faulen hund </s> 
-<s> Ein schnelle aufgeregte Fuchs huepfte ueber den faulen hund </s> 
-<s> Ein schnelle aufgeregte Fuchs ass ueber den faulen hund </s> 
-<s> Ein schnelle aufgeregte Hund sprang ueber den faulen hund </s> 
-<s> Ein schnelle aufgeregte Hund springt ueber den faulen hund </s> 
-<s> Ein schnelle aufgeregte Hund huepfte ueber den faulen hund </s> 
-<s> Ein schnelle aufgeregte Hund ass ueber den faulen hund </s> 
-<s> Ein schnelle aufgeregte Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Ein schnelle aufgeregte Kuehlschrank springt ueber den faulen hund </s> 
-<s> Ein schnelle aufgeregte Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Ein schnelle aufgeregte Kuehlschrank ass ueber den faulen hund </s> 
-<s> Ein rote braune Fuchs sprang ueber den faulen hund </s> 
-<s> Ein rote braune Fuchs springt ueber den faulen hund </s> 
-<s> Ein rote braune Fuchs huepfte ueber den faulen hund </s> 
-<s> Ein rote braune Fuchs ass ueber den faulen hund </s> 
-<s> Ein rote braune Hund sprang ueber den faulen hund </s> 
-<s> Ein rote braune Hund springt ueber den faulen hund </s> 
-<s> Ein rote braune Hund huepfte ueber den faulen hund </s> 
-<s> Ein rote braune Hund ass ueber den faulen hund </s> 
-<s> Ein rote braune Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Ein rote braune Kuehlschrank springt ueber den faulen hund </s> 
-<s> Ein rote braune Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Ein rote braune Kuehlschrank ass ueber den faulen hund </s> 
-<s> Ein rote gruene Fuchs sprang ueber den faulen hund </s> 
-<s> Ein rote gruene Fuchs springt ueber den faulen hund </s> 
-<s> Ein rote gruene Fuchs huepfte ueber den faulen hund </s> 
-<s> Ein rote gruene Fuchs ass ueber den faulen hund </s> 
-<s> Ein rote gruene Hund sprang ueber den faulen hund </s> 
-<s> Ein rote gruene Hund springt ueber den faulen hund </s> 
-<s> Ein rote gruene Hund huepfte ueber den faulen hund </s> 
-<s> Ein rote gruene Hund ass ueber den faulen hund </s> 
-<s> Ein rote gruene Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Ein rote gruene Kuehlschrank springt ueber den faulen hund </s> 
-<s> Ein rote gruene Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Ein rote gruene Kuehlschrank ass ueber den faulen hund </s> 
-<s> Ein rote faule Fuchs sprang ueber den faulen hund </s> 
-<s> Ein rote faule Fuchs springt ueber den faulen hund </s> 
-<s> Ein rote faule Fuchs huepfte ueber den faulen hund </s> 
-<s> Ein rote faule Fuchs ass ueber den faulen hund </s> 
-<s> Ein rote faule Hund sprang ueber den faulen hund </s> 
-<s> Ein rote faule Hund springt ueber den faulen hund </s> 
-<s> Ein rote faule Hund huepfte ueber den faulen hund </s> 
-<s> Ein rote faule Hund ass ueber den faulen hund </s> 
-<s> Ein rote faule Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Ein rote faule Kuehlschrank springt ueber den faulen hund </s> 
-<s> Ein rote faule Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Ein rote faule Kuehlschrank ass ueber den faulen hund </s> 
-<s> Ein rote aufgeregte Fuchs sprang ueber den faulen hund </s> 
-<s> Ein rote aufgeregte Fuchs springt ueber den faulen hund </s> 
-<s> Ein rote aufgeregte Fuchs huepfte ueber den faulen hund </s> 
-<s> Ein rote aufgeregte Fuchs ass ueber den faulen hund </s> 
-<s> Ein rote aufgeregte Hund sprang ueber den faulen hund </s> 
-<s> Ein rote aufgeregte Hund springt ueber den faulen hund </s> 
-<s> Ein rote aufgeregte Hund huepfte ueber den faulen hund </s> 
-<s> Ein rote aufgeregte Hund ass ueber den faulen hund </s> 
-<s> Ein rote aufgeregte Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Ein rote aufgeregte Kuehlschrank springt ueber den faulen hund </s> 
-<s> Ein rote aufgeregte Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Ein rote aufgeregte Kuehlschrank ass ueber den faulen hund </s> 
-<s> Ein langsame braune Fuchs sprang ueber den faulen hund </s> 
-<s> Ein langsame braune Fuchs springt ueber den faulen hund </s> 
-<s> Ein langsame braune Fuchs huepfte ueber den faulen hund </s> 
-<s> Ein langsame braune Fuchs ass ueber den faulen hund </s> 
-<s> Ein langsame braune Hund sprang ueber den faulen hund </s> 
-<s> Ein langsame braune Hund springt ueber den faulen hund </s> 
-<s> Ein langsame braune Hund huepfte ueber den faulen hund </s> 
-<s> Ein langsame braune Hund ass ueber den faulen hund </s> 
-<s> Ein langsame braune Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Ein langsame braune Kuehlschrank springt ueber den faulen hund </s> 
-<s> Ein langsame braune Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Ein langsame braune Kuehlschrank ass ueber den faulen hund </s> 
-<s> Ein langsame gruene Fuchs sprang ueber den faulen hund </s> 
-<s> Ein langsame gruene Fuchs springt ueber den faulen hund </s> 
-<s> Ein langsame gruene Fuchs huepfte ueber den faulen hund </s> 
-<s> Ein langsame gruene Fuchs ass ueber den faulen hund </s> 
-<s> Ein langsame gruene Hund sprang ueber den faulen hund </s> 
-<s> Ein langsame gruene Hund springt ueber den faulen hund </s> 
-<s> Ein langsame gruene Hund huepfte ueber den faulen hund </s> 
-<s> Ein langsame gruene Hund ass ueber den faulen hund </s> 
-<s> Ein langsame gruene Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Ein langsame gruene Kuehlschrank springt ueber den faulen hund </s> 
-<s> Ein langsame gruene Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Ein langsame gruene Kuehlschrank ass ueber den faulen hund </s> 
-<s> Ein langsame faule Fuchs sprang ueber den faulen hund </s> 
-<s> Ein langsame faule Fuchs springt ueber den faulen hund </s> 
-<s> Ein langsame faule Fuchs huepfte ueber den faulen hund </s> 
-<s> Ein langsame faule Fuchs ass ueber den faulen hund </s> 
-<s> Ein langsame faule Hund sprang ueber den faulen hund </s> 
-<s> Ein langsame faule Hund springt ueber den faulen hund </s> 
-<s> Ein langsame faule Hund huepfte ueber den faulen hund </s> 
-<s> Ein langsame faule Hund ass ueber den faulen hund </s> 
-<s> Ein langsame faule Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Ein langsame faule Kuehlschrank springt ueber den faulen hund </s> 
-<s> Ein langsame faule Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Ein langsame faule Kuehlschrank ass ueber den faulen hund </s> 
-<s> Ein langsame aufgeregte Fuchs sprang ueber den faulen hund </s> 
-<s> Ein langsame aufgeregte Fuchs springt ueber den faulen hund </s> 
-<s> Ein langsame aufgeregte Fuchs huepfte ueber den faulen hund </s> 
-<s> Ein langsame aufgeregte Fuchs ass ueber den faulen hund </s> 
-<s> Ein langsame aufgeregte Hund sprang ueber den faulen hund </s> 
-<s> Ein langsame aufgeregte Hund springt ueber den faulen hund </s> 
-<s> Ein langsame aufgeregte Hund huepfte ueber den faulen hund </s> 
-<s> Ein langsame aufgeregte Hund ass ueber den faulen hund </s> 
-<s> Ein langsame aufgeregte Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Ein langsame aufgeregte Kuehlschrank springt ueber den faulen hund </s> 
-<s> Ein langsame aufgeregte Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Ein langsame aufgeregte Kuehlschrank ass ueber den faulen hund </s> 
-<s> Zwei schnelle braune Fuchs sprang ueber den faulen hund </s> 
-<s> Zwei schnelle braune Fuchs springt ueber den faulen hund </s> 
-<s> Zwei schnelle braune Fuchs huepfte ueber den faulen hund </s> 
-<s> Zwei schnelle braune Fuchs ass ueber den faulen hund </s> 
-<s> Zwei schnelle braune Hund sprang ueber den faulen hund </s> 
-<s> Zwei schnelle braune Hund springt ueber den faulen hund </s> 
-<s> Zwei schnelle braune Hund huepfte ueber den faulen hund </s> 
-<s> Zwei schnelle braune Hund ass ueber den faulen hund </s> 
-<s> Zwei schnelle braune Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Zwei schnelle braune Kuehlschrank springt ueber den faulen hund </s> 
-<s> Zwei schnelle braune Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Zwei schnelle braune Kuehlschrank ass ueber den faulen hund </s> 
-<s> Zwei schnelle gruene Fuchs sprang ueber den faulen hund </s> 
-<s> Zwei schnelle gruene Fuchs springt ueber den faulen hund </s> 
-<s> Zwei schnelle gruene Fuchs huepfte ueber den faulen hund </s> 
-<s> Zwei schnelle gruene Fuchs ass ueber den faulen hund </s> 
-<s> Zwei schnelle gruene Hund sprang ueber den faulen hund </s> 
-<s> Zwei schnelle gruene Hund springt ueber den faulen hund </s> 
-<s> Zwei schnelle gruene Hund huepfte ueber den faulen hund </s> 
-<s> Zwei schnelle gruene Hund ass ueber den faulen hund </s> 
-<s> Zwei schnelle gruene Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Zwei schnelle gruene Kuehlschrank springt ueber den faulen hund </s> 
-<s> Zwei schnelle gruene Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Zwei schnelle gruene Kuehlschrank ass ueber den faulen hund </s> 
-<s> Zwei schnelle faule Fuchs sprang ueber den faulen hund </s> 
-<s> Zwei schnelle faule Fuchs springt ueber den faulen hund </s> 
-<s> Zwei schnelle faule Fuchs huepfte ueber den faulen hund </s> 
-<s> Zwei schnelle faule Fuchs ass ueber den faulen hund </s> 
-<s> Zwei schnelle faule Hund sprang ueber den faulen hund </s> 
-<s> Zwei schnelle faule Hund springt ueber den faulen hund </s> 
-<s> Zwei schnelle faule Hund huepfte ueber den faulen hund </s> 
-<s> Zwei schnelle faule Hund ass ueber den faulen hund </s> 
-<s> Zwei schnelle faule Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Zwei schnelle faule Kuehlschrank springt ueber den faulen hund </s> 
-<s> Zwei schnelle faule Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Zwei schnelle faule Kuehlschrank ass ueber den faulen hund </s> 
-<s> Zwei schnelle aufgeregte Fuchs sprang ueber den faulen hund </s> 
-<s> Zwei schnelle aufgeregte Fuchs springt ueber den faulen hund </s> 
-<s> Zwei schnelle aufgeregte Fuchs huepfte ueber den faulen hund </s> 
-<s> Zwei schnelle aufgeregte Fuchs ass ueber den faulen hund </s> 
-<s> Zwei schnelle aufgeregte Hund sprang ueber den faulen hund </s> 
-<s> Zwei schnelle aufgeregte Hund springt ueber den faulen hund </s> 
-<s> Zwei schnelle aufgeregte Hund huepfte ueber den faulen hund </s> 
-<s> Zwei schnelle aufgeregte Hund ass ueber den faulen hund </s> 
-<s> Zwei schnelle aufgeregte Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Zwei schnelle aufgeregte Kuehlschrank springt ueber den faulen hund </s> 
-<s> Zwei schnelle aufgeregte Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Zwei schnelle aufgeregte Kuehlschrank ass ueber den faulen hund </s> 
-<s> Zwei rote braune Fuchs sprang ueber den faulen hund </s> 
-<s> Zwei rote braune Fuchs springt ueber den faulen hund </s> 
-<s> Zwei rote braune Fuchs huepfte ueber den faulen hund </s> 
-<s> Zwei rote braune Fuchs ass ueber den faulen hund </s> 
-<s> Zwei rote braune Hund sprang ueber den faulen hund </s> 
-<s> Zwei rote braune Hund springt ueber den faulen hund </s> 
-<s> Zwei rote braune Hund huepfte ueber den faulen hund </s> 
-<s> Zwei rote braune Hund ass ueber den faulen hund </s> 
-<s> Zwei rote braune Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Zwei rote braune Kuehlschrank springt ueber den faulen hund </s> 
-<s> Zwei rote braune Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Zwei rote braune Kuehlschrank ass ueber den faulen hund </s> 
-<s> Zwei rote gruene Fuchs sprang ueber den faulen hund </s> 
-<s> Zwei rote gruene Fuchs springt ueber den faulen hund </s> 
-<s> Zwei rote gruene Fuchs huepfte ueber den faulen hund </s> 
-<s> Zwei rote gruene Fuchs ass ueber den faulen hund </s> 
-<s> Zwei rote gruene Hund sprang ueber den faulen hund </s> 
-<s> Zwei rote gruene Hund springt ueber den faulen hund </s> 
-<s> Zwei rote gruene Hund huepfte ueber den faulen hund </s> 
-<s> Zwei rote gruene Hund ass ueber den faulen hund </s> 
-<s> Zwei rote gruene Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Zwei rote gruene Kuehlschrank springt ueber den faulen hund </s> 
-<s> Zwei rote gruene Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Zwei rote gruene Kuehlschrank ass ueber den faulen hund </s> 
-<s> Zwei rote faule Fuchs sprang ueber den faulen hund </s> 
-<s> Zwei rote faule Fuchs springt ueber den faulen hund </s> 
-<s> Zwei rote faule Fuchs huepfte ueber den faulen hund </s> 
-<s> Zwei rote faule Fuchs ass ueber den faulen hund </s> 
-<s> Zwei rote faule Hund sprang ueber den faulen hund </s> 
-<s> Zwei rote faule Hund springt ueber den faulen hund </s> 
-<s> Zwei rote faule Hund huepfte ueber den faulen hund </s> 
-<s> Zwei rote faule Hund ass ueber den faulen hund </s> 
-<s> Zwei rote faule Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Zwei rote faule Kuehlschrank springt ueber den faulen hund </s> 
-<s> Zwei rote faule Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Zwei rote faule Kuehlschrank ass ueber den faulen hund </s> 
-<s> Zwei rote aufgeregte Fuchs sprang ueber den faulen hund </s> 
-<s> Zwei rote aufgeregte Fuchs springt ueber den faulen hund </s> 
-<s> Zwei rote aufgeregte Fuchs huepfte ueber den faulen hund </s> 
-<s> Zwei rote aufgeregte Fuchs ass ueber den faulen hund </s> 
-<s> Zwei rote aufgeregte Hund sprang ueber den faulen hund </s> 
-<s> Zwei rote aufgeregte Hund springt ueber den faulen hund </s> 
-<s> Zwei rote aufgeregte Hund huepfte ueber den faulen hund </s> 
-<s> Zwei rote aufgeregte Hund ass ueber den faulen hund </s> 
-<s> Zwei rote aufgeregte Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Zwei rote aufgeregte Kuehlschrank springt ueber den faulen hund </s> 
-<s> Zwei rote aufgeregte Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Zwei rote aufgeregte Kuehlschrank ass ueber den faulen hund </s> 
-<s> Zwei langsame braune Fuchs sprang ueber den faulen hund </s> 
-<s> Zwei langsame braune Fuchs springt ueber den faulen hund </s> 
-<s> Zwei langsame braune Fuchs huepfte ueber den faulen hund </s> 
-<s> Zwei langsame braune Fuchs ass ueber den faulen hund </s> 
-<s> Zwei langsame braune Hund sprang ueber den faulen hund </s> 
-<s> Zwei langsame braune Hund springt ueber den faulen hund </s> 
-<s> Zwei langsame braune Hund huepfte ueber den faulen hund </s> 
-<s> Zwei langsame braune Hund ass ueber den faulen hund </s> 
-<s> Zwei langsame braune Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Zwei langsame braune Kuehlschrank springt ueber den faulen hund </s> 
-<s> Zwei langsame braune Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Zwei langsame braune Kuehlschrank ass ueber den faulen hund </s> 
-<s> Zwei langsame gruene Fuchs sprang ueber den faulen hund </s> 
-<s> Zwei langsame gruene Fuchs springt ueber den faulen hund </s> 
-<s> Zwei langsame gruene Fuchs huepfte ueber den faulen hund </s> 
-<s> Zwei langsame gruene Fuchs ass ueber den faulen hund </s> 
-<s> Zwei langsame gruene Hund sprang ueber den faulen hund </s> 
-<s> Zwei langsame gruene Hund springt ueber den faulen hund </s> 
-<s> Zwei langsame gruene Hund huepfte ueber den faulen hund </s> 
-<s> Zwei langsame gruene Hund ass ueber den faulen hund </s> 
-<s> Zwei langsame gruene Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Zwei langsame gruene Kuehlschrank springt ueber den faulen hund </s> 
-<s> Zwei langsame gruene Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Zwei langsame gruene Kuehlschrank ass ueber den faulen hund </s> 
-<s> Zwei langsame faule Fuchs sprang ueber den faulen hund </s> 
-<s> Zwei langsame faule Fuchs springt ueber den faulen hund </s> 
-<s> Zwei langsame faule Fuchs huepfte ueber den faulen hund </s> 
-<s> Zwei langsame faule Fuchs ass ueber den faulen hund </s> 
-<s> Zwei langsame faule Hund sprang ueber den faulen hund </s> 
-<s> Zwei langsame faule Hund springt ueber den faulen hund </s> 
-<s> Zwei langsame faule Hund huepfte ueber den faulen hund </s> 
-<s> Zwei langsame faule Hund ass ueber den faulen hund </s> 
-<s> Zwei langsame faule Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Zwei langsame faule Kuehlschrank springt ueber den faulen hund </s> 
-<s> Zwei langsame faule Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Zwei langsame faule Kuehlschrank ass ueber den faulen hund </s> 
-<s> Zwei langsame aufgeregte Fuchs sprang ueber den faulen hund </s> 
-<s> Zwei langsame aufgeregte Fuchs springt ueber den faulen hund </s> 
-<s> Zwei langsame aufgeregte Fuchs huepfte ueber den faulen hund </s> 
-<s> Zwei langsame aufgeregte Fuchs ass ueber den faulen hund </s> 
-<s> Zwei langsame aufgeregte Hund sprang ueber den faulen hund </s> 
-<s> Zwei langsame aufgeregte Hund springt ueber den faulen hund </s> 
-<s> Zwei langsame aufgeregte Hund huepfte ueber den faulen hund </s> 
-<s> Zwei langsame aufgeregte Hund ass ueber den faulen hund </s> 
-<s> Zwei langsame aufgeregte Kuehlschrank sprang ueber den faulen hund </s> 
-<s> Zwei langsame aufgeregte Kuehlschrank springt ueber den faulen hund </s> 
-<s> Zwei langsame aufgeregte Kuehlschrank huepfte ueber den faulen hund </s> 
-<s> Zwei langsame aufgeregte Kuehlschrank ass ueber den faulen hund </s> 
+Der schnelle braune Fuchs sprang ueber den faulen Hund . 
+Der schnelle braune Fuchs springt ueber den faulen Hund . 
+Der schnelle braune Fuchs huepfte ueber den faulen Hund . 
+Der schnelle braune Fuchs ass ueber den faulen Hund . 
+Der schnelle braune Hund sprang ueber den faulen Hund . 
+Der schnelle braune Hund springt ueber den faulen Hund . 
+Der schnelle braune Hund huepfte ueber den faulen Hund . 
+Der schnelle braune Hund ass ueber den faulen Hund . 
+Der schnelle braune Kuehlschrank sprang ueber den faulen Hund . 
+Der schnelle braune Kuehlschrank springt ueber den faulen Hund . 
+Der schnelle braune Kuehlschrank huepfte ueber den faulen Hund . 
+Der schnelle braune Kuehlschrank ass ueber den faulen Hund . 
+Der schnelle gruene Fuchs sprang ueber den faulen Hund . 
+Der schnelle gruene Fuchs springt ueber den faulen Hund . 
+Der schnelle gruene Fuchs huepfte ueber den faulen Hund . 
+Der schnelle gruene Fuchs ass ueber den faulen Hund . 
+Der schnelle gruene Hund sprang ueber den faulen Hund . 
+Der schnelle gruene Hund springt ueber den faulen Hund . 
+Der schnelle gruene Hund huepfte ueber den faulen Hund . 
+Der schnelle gruene Hund ass ueber den faulen Hund . 
+Der schnelle gruene Kuehlschrank sprang ueber den faulen Hund . 
+Der schnelle gruene Kuehlschrank springt ueber den faulen Hund . 
+Der schnelle gruene Kuehlschrank huepfte ueber den faulen Hund . 
+Der schnelle gruene Kuehlschrank ass ueber den faulen Hund . 
+Der schnelle faule Fuchs sprang ueber den faulen Hund . 
+Der schnelle faule Fuchs springt ueber den faulen Hund . 
+Der schnelle faule Fuchs huepfte ueber den faulen Hund . 
+Der schnelle faule Fuchs ass ueber den faulen Hund . 
+Der schnelle faule Hund sprang ueber den faulen Hund . 
+Der schnelle faule Hund springt ueber den faulen Hund . 
+Der schnelle faule Hund huepfte ueber den faulen Hund . 
+Der schnelle faule Hund ass ueber den faulen Hund . 
+Der schnelle faule Kuehlschrank sprang ueber den faulen Hund . 
+Der schnelle faule Kuehlschrank springt ueber den faulen Hund . 
+Der schnelle faule Kuehlschrank huepfte ueber den faulen Hund . 
+Der schnelle faule Kuehlschrank ass ueber den faulen Hund . 
+Der schnelle aufgeregte Fuchs sprang ueber den faulen Hund . 
+Der schnelle aufgeregte Fuchs springt ueber den faulen Hund . 
+Der schnelle aufgeregte Fuchs huepfte ueber den faulen Hund . 
+Der schnelle aufgeregte Fuchs ass ueber den faulen Hund . 
+Der schnelle aufgeregte Hund sprang ueber den faulen Hund . 
+Der schnelle aufgeregte Hund springt ueber den faulen Hund . 
+Der schnelle aufgeregte Hund huepfte ueber den faulen Hund . 
+Der schnelle aufgeregte Hund ass ueber den faulen Hund . 
+Der schnelle aufgeregte Kuehlschrank sprang ueber den faulen Hund . 
+Der schnelle aufgeregte Kuehlschrank springt ueber den faulen Hund . 
+Der schnelle aufgeregte Kuehlschrank huepfte ueber den faulen Hund . 
+Der schnelle aufgeregte Kuehlschrank ass ueber den faulen Hund . 
+Der rote braune Fuchs sprang ueber den faulen Hund . 
+Der rote braune Fuchs springt ueber den faulen Hund . 
+Der rote braune Fuchs huepfte ueber den faulen Hund . 
+Der rote braune Fuchs ass ueber den faulen Hund . 
+Der rote braune Hund sprang ueber den faulen Hund . 
+Der rote braune Hund springt ueber den faulen Hund . 
+Der rote braune Hund huepfte ueber den faulen Hund . 
+Der rote braune Hund ass ueber den faulen Hund . 
+Der rote braune Kuehlschrank sprang ueber den faulen Hund . 
+Der rote braune Kuehlschrank springt ueber den faulen Hund . 
+Der rote braune Kuehlschrank huepfte ueber den faulen Hund . 
+Der rote braune Kuehlschrank ass ueber den faulen Hund . 
+Der rote gruene Fuchs sprang ueber den faulen Hund . 
+Der rote gruene Fuchs springt ueber den faulen Hund . 
+Der rote gruene Fuchs huepfte ueber den faulen Hund . 
+Der rote gruene Fuchs ass ueber den faulen Hund . 
+Der rote gruene Hund sprang ueber den faulen Hund . 
+Der rote gruene Hund springt ueber den faulen Hund . 
+Der rote gruene Hund huepfte ueber den faulen Hund . 
+Der rote gruene Hund ass ueber den faulen Hund . 
+Der rote gruene Kuehlschrank sprang ueber den faulen Hund . 
+Der rote gruene Kuehlschrank springt ueber den faulen Hund . 
+Der rote gruene Kuehlschrank huepfte ueber den faulen Hund . 
+Der rote gruene Kuehlschrank ass ueber den faulen Hund . 
+Der rote faule Fuchs sprang ueber den faulen Hund . 
+Der rote faule Fuchs springt ueber den faulen Hund . 
+Der rote faule Fuchs huepfte ueber den faulen Hund . 
+Der rote faule Fuchs ass ueber den faulen Hund . 
+Der rote faule Hund sprang ueber den faulen Hund . 
+Der rote faule Hund springt ueber den faulen Hund . 
+Der rote faule Hund huepfte ueber den faulen Hund . 
+Der rote faule Hund ass ueber den faulen Hund . 
+Der rote faule Kuehlschrank sprang ueber den faulen Hund . 
+Der rote faule Kuehlschrank springt ueber den faulen Hund . 
+Der rote faule Kuehlschrank huepfte ueber den faulen Hund . 
+Der rote faule Kuehlschrank ass ueber den faulen Hund . 
+Der rote aufgeregte Fuchs sprang ueber den faulen Hund . 
+Der rote aufgeregte Fuchs springt ueber den faulen Hund . 
+Der rote aufgeregte Fuchs huepfte ueber den faulen Hund . 
+Der rote aufgeregte Fuchs ass ueber den faulen Hund . 
+Der rote aufgeregte Hund sprang ueber den faulen Hund . 
+Der rote aufgeregte Hund springt ueber den faulen Hund . 
+Der rote aufgeregte Hund huepfte ueber den faulen Hund . 
+Der rote aufgeregte Hund ass ueber den faulen Hund . 
+Der rote aufgeregte Kuehlschrank sprang ueber den faulen Hund . 
+Der rote aufgeregte Kuehlschrank springt ueber den faulen Hund . 
+Der rote aufgeregte Kuehlschrank huepfte ueber den faulen Hund . 
+Der rote aufgeregte Kuehlschrank ass ueber den faulen Hund . 
+Der langsame braune Fuchs sprang ueber den faulen Hund . 
+Der langsame braune Fuchs springt ueber den faulen Hund . 
+Der langsame braune Fuchs huepfte ueber den faulen Hund . 
+Der langsame braune Fuchs ass ueber den faulen Hund . 
+Der langsame braune Hund sprang ueber den faulen Hund . 
+Der langsame braune Hund springt ueber den faulen Hund . 
+Der langsame braune Hund huepfte ueber den faulen Hund . 
+Der langsame braune Hund ass ueber den faulen Hund . 
+Der langsame braune Kuehlschrank sprang ueber den faulen Hund . 
+Der langsame braune Kuehlschrank springt ueber den faulen Hund . 
+Der langsame braune Kuehlschrank huepfte ueber den faulen Hund . 
+Der langsame braune Kuehlschrank ass ueber den faulen Hund . 
+Der langsame gruene Fuchs sprang ueber den faulen Hund . 
+Der langsame gruene Fuchs springt ueber den faulen Hund . 
+Der langsame gruene Fuchs huepfte ueber den faulen Hund . 
+Der langsame gruene Fuchs ass ueber den faulen Hund . 
+Der langsame gruene Hund sprang ueber den faulen Hund . 
+Der langsame gruene Hund springt ueber den faulen Hund . 
+Der langsame gruene Hund huepfte ueber den faulen Hund . 
+Der langsame gruene Hund ass ueber den faulen Hund . 
+Der langsame gruene Kuehlschrank sprang ueber den faulen Hund . 
+Der langsame gruene Kuehlschrank springt ueber den faulen Hund . 
+Der langsame gruene Kuehlschrank huepfte ueber den faulen Hund . 
+Der langsame gruene Kuehlschrank ass ueber den faulen Hund . 
+Der langsame faule Fuchs sprang ueber den faulen Hund . 
+Der langsame faule Fuchs springt ueber den faulen Hund . 
+Der langsame faule Fuchs huepfte ueber den faulen Hund . 
+Der langsame faule Fuchs ass ueber den faulen Hund . 
+Der langsame faule Hund sprang ueber den faulen Hund . 
+Der langsame faule Hund springt ueber den faulen Hund . 
+Der langsame faule Hund huepfte ueber den faulen Hund . 
+Der langsame faule Hund ass ueber den faulen Hund . 
+Der langsame faule Kuehlschrank sprang ueber den faulen Hund . 
+Der langsame faule Kuehlschrank springt ueber den faulen Hund . 
+Der langsame faule Kuehlschrank huepfte ueber den faulen Hund . 
+Der langsame faule Kuehlschrank ass ueber den faulen Hund . 
+Der langsame aufgeregte Fuchs sprang ueber den faulen Hund . 
+Der langsame aufgeregte Fuchs springt ueber den faulen Hund . 
+Der langsame aufgeregte Fuchs huepfte ueber den faulen Hund . 
+Der langsame aufgeregte Fuchs ass ueber den faulen Hund . 
+Der langsame aufgeregte Hund sprang ueber den faulen Hund . 
+Der langsame aufgeregte Hund springt ueber den faulen Hund . 
+Der langsame aufgeregte Hund huepfte ueber den faulen Hund . 
+Der langsame aufgeregte Hund ass ueber den faulen Hund . 
+Der langsame aufgeregte Kuehlschrank sprang ueber den faulen Hund . 
+Der langsame aufgeregte Kuehlschrank springt ueber den faulen Hund . 
+Der langsame aufgeregte Kuehlschrank huepfte ueber den faulen Hund . 
+Der langsame aufgeregte Kuehlschrank ass ueber den faulen Hund . 
+Ein schnelle braune Fuchs sprang ueber den faulen Hund . 
+Ein schnelle braune Fuchs springt ueber den faulen Hund . 
+Ein schnelle braune Fuchs huepfte ueber den faulen Hund . 
+Ein schnelle braune Fuchs ass ueber den faulen Hund . 
+Ein schnelle braune Hund sprang ueber den faulen Hund . 
+Ein schnelle braune Hund springt ueber den faulen Hund . 
+Ein schnelle braune Hund huepfte ueber den faulen Hund . 
+Ein schnelle braune Hund ass ueber den faulen Hund . 
+Ein schnelle braune Kuehlschrank sprang ueber den faulen Hund . 
+Ein schnelle braune Kuehlschrank springt ueber den faulen Hund . 
+Ein schnelle braune Kuehlschrank huepfte ueber den faulen Hund . 
+Ein schnelle braune Kuehlschrank ass ueber den faulen Hund . 
+Ein schnelle gruene Fuchs sprang ueber den faulen Hund . 
+Ein schnelle gruene Fuchs springt ueber den faulen Hund . 
+Ein schnelle gruene Fuchs huepfte ueber den faulen Hund . 
+Ein schnelle gruene Fuchs ass ueber den faulen Hund . 
+Ein schnelle gruene Hund sprang ueber den faulen Hund . 
+Ein schnelle gruene Hund springt ueber den faulen Hund . 
+Ein schnelle gruene Hund huepfte ueber den faulen Hund . 
+Ein schnelle gruene Hund ass ueber den faulen Hund . 
+Ein schnelle gruene Kuehlschrank sprang ueber den faulen Hund . 
+Ein schnelle gruene Kuehlschrank springt ueber den faulen Hund . 
+Ein schnelle gruene Kuehlschrank huepfte ueber den faulen Hund . 
+Ein schnelle gruene Kuehlschrank ass ueber den faulen Hund . 
+Ein schnelle faule Fuchs sprang ueber den faulen Hund . 
+Ein schnelle faule Fuchs springt ueber den faulen Hund . 
+Ein schnelle faule Fuchs huepfte ueber den faulen Hund . 
+Ein schnelle faule Fuchs ass ueber den faulen Hund . 
+Ein schnelle faule Hund sprang ueber den faulen Hund . 
+Ein schnelle faule Hund springt ueber den faulen Hund . 
+Ein schnelle faule Hund huepfte ueber den faulen Hund . 
+Ein schnelle faule Hund ass ueber den faulen Hund . 
+Ein schnelle faule Kuehlschrank sprang ueber den faulen Hund . 
+Ein schnelle faule Kuehlschrank springt ueber den faulen Hund . 
+Ein schnelle faule Kuehlschrank huepfte ueber den faulen Hund . 
+Ein schnelle faule Kuehlschrank ass ueber den faulen Hund . 
+Ein schnelle aufgeregte Fuchs sprang ueber den faulen Hund . 
+Ein schnelle aufgeregte Fuchs springt ueber den faulen Hund . 
+Ein schnelle aufgeregte Fuchs huepfte ueber den faulen Hund . 
+Ein schnelle aufgeregte Fuchs ass ueber den faulen Hund . 
+Ein schnelle aufgeregte Hund sprang ueber den faulen Hund . 
+Ein schnelle aufgeregte Hund springt ueber den faulen Hund . 
+Ein schnelle aufgeregte Hund huepfte ueber den faulen Hund . 
+Ein schnelle aufgeregte Hund ass ueber den faulen Hund . 
+Ein schnelle aufgeregte Kuehlschrank sprang ueber den faulen Hund . 
+Ein schnelle aufgeregte Kuehlschrank springt ueber den faulen Hund . 
+Ein schnelle aufgeregte Kuehlschrank huepfte ueber den faulen Hund . 
+Ein schnelle aufgeregte Kuehlschrank ass ueber den faulen Hund . 
+Ein rote braune Fuchs sprang ueber den faulen Hund . 
+Ein rote braune Fuchs springt ueber den faulen Hund . 
+Ein rote braune Fuchs huepfte ueber den faulen Hund . 
+Ein rote braune Fuchs ass ueber den faulen Hund . 
+Ein rote braune Hund sprang ueber den faulen Hund . 
+Ein rote braune Hund springt ueber den faulen Hund . 
+Ein rote braune Hund huepfte ueber den faulen Hund . 
+Ein rote braune Hund ass ueber den faulen Hund . 
+Ein rote braune Kuehlschrank sprang ueber den faulen Hund . 
+Ein rote braune Kuehlschrank springt ueber den faulen Hund . 
+Ein rote braune Kuehlschrank huepfte ueber den faulen Hund . 
+Ein rote braune Kuehlschrank ass ueber den faulen Hund . 
+Ein rote gruene Fuchs sprang ueber den faulen Hund . 
+Ein rote gruene Fuchs springt ueber den faulen Hund . 
+Ein rote gruene Fuchs huepfte ueber den faulen Hund . 
+Ein rote gruene Fuchs ass ueber den faulen Hund . 
+Ein rote gruene Hund sprang ueber den faulen Hund . 
+Ein rote gruene Hund springt ueber den faulen Hund . 
+Ein rote gruene Hund huepfte ueber den faulen Hund . 
+Ein rote gruene Hund ass ueber den faulen Hund . 
+Ein rote gruene Kuehlschrank sprang ueber den faulen Hund . 
+Ein rote gruene Kuehlschrank springt ueber den faulen Hund . 
+Ein rote gruene Kuehlschrank huepfte ueber den faulen Hund . 
+Ein rote gruene Kuehlschrank ass ueber den faulen Hund . 
+Ein rote faule Fuchs sprang ueber den faulen Hund . 
+Ein rote faule Fuchs springt ueber den faulen Hund . 
+Ein rote faule Fuchs huepfte ueber den faulen Hund . 
+Ein rote faule Fuchs ass ueber den faulen Hund . 
+Ein rote faule Hund sprang ueber den faulen Hund . 
+Ein rote faule Hund springt ueber den faulen Hund . 
+Ein rote faule Hund huepfte ueber den faulen Hund . 
+Ein rote faule Hund ass ueber den faulen Hund . 
+Ein rote faule Kuehlschrank sprang ueber den faulen Hund . 
+Ein rote faule Kuehlschrank springt ueber den faulen Hund . 
+Ein rote faule Kuehlschrank huepfte ueber den faulen Hund . 
+Ein rote faule Kuehlschrank ass ueber den faulen Hund . 
+Ein rote aufgeregte Fuchs sprang ueber den faulen Hund . 
+Ein rote aufgeregte Fuchs springt ueber den faulen Hund . 
+Ein rote aufgeregte Fuchs huepfte ueber den faulen Hund . 
+Ein rote aufgeregte Fuchs ass ueber den faulen Hund . 
+Ein rote aufgeregte Hund sprang ueber den faulen Hund . 
+Ein rote aufgeregte Hund springt ueber den faulen Hund . 
+Ein rote aufgeregte Hund huepfte ueber den faulen Hund . 
+Ein rote aufgeregte Hund ass ueber den faulen Hund . 
+Ein rote aufgeregte Kuehlschrank sprang ueber den faulen Hund . 
+Ein rote aufgeregte Kuehlschrank springt ueber den faulen Hund . 
+Ein rote aufgeregte Kuehlschrank huepfte ueber den faulen Hund . 
+Ein rote aufgeregte Kuehlschrank ass ueber den faulen Hund . 
+Ein langsame braune Fuchs sprang ueber den faulen Hund . 
+Ein langsame braune Fuchs springt ueber den faulen Hund . 
+Ein langsame braune Fuchs huepfte ueber den faulen Hund . 
+Ein langsame braune Fuchs ass ueber den faulen Hund . 
+Ein langsame braune Hund sprang ueber den faulen Hund . 
+Ein langsame braune Hund springt ueber den faulen Hund . 
+Ein langsame braune Hund huepfte ueber den faulen Hund . 
+Ein langsame braune Hund ass ueber den faulen Hund . 
+Ein langsame braune Kuehlschrank sprang ueber den faulen Hund . 
+Ein langsame braune Kuehlschrank springt ueber den faulen Hund . 
+Ein langsame braune Kuehlschrank huepfte ueber den faulen Hund . 
+Ein langsame braune Kuehlschrank ass ueber den faulen Hund . 
+Ein langsame gruene Fuchs sprang ueber den faulen Hund . 
+Ein langsame gruene Fuchs springt ueber den faulen Hund . 
+Ein langsame gruene Fuchs huepfte ueber den faulen Hund . 
+Ein langsame gruene Fuchs ass ueber den faulen Hund . 
+Ein langsame gruene Hund sprang ueber den faulen Hund . 
+Ein langsame gruene Hund springt ueber den faulen Hund . 
+Ein langsame gruene Hund huepfte ueber den faulen Hund . 
+Ein langsame gruene Hund ass ueber den faulen Hund . 
+Ein langsame gruene Kuehlschrank sprang ueber den faulen Hund . 
+Ein langsame gruene Kuehlschrank springt ueber den faulen Hund . 
+Ein langsame gruene Kuehlschrank huepfte ueber den faulen Hund . 
+Ein langsame gruene Kuehlschrank ass ueber den faulen Hund . 
+Ein langsame faule Fuchs sprang ueber den faulen Hund . 
+Ein langsame faule Fuchs springt ueber den faulen Hund . 
+Ein langsame faule Fuchs huepfte ueber den faulen Hund . 
+Ein langsame faule Fuchs ass ueber den faulen Hund . 
+Ein langsame faule Hund sprang ueber den faulen Hund . 
+Ein langsame faule Hund springt ueber den faulen Hund . 
+Ein langsame faule Hund huepfte ueber den faulen Hund . 
+Ein langsame faule Hund ass ueber den faulen Hund . 
+Ein langsame faule Kuehlschrank sprang ueber den faulen Hund . 
+Ein langsame faule Kuehlschrank springt ueber den faulen Hund . 
+Ein langsame faule Kuehlschrank huepfte ueber den faulen Hund . 
+Ein langsame faule Kuehlschrank ass ueber den faulen Hund . 
+Ein langsame aufgeregte Fuchs sprang ueber den faulen Hund . 
+Ein langsame aufgeregte Fuchs springt ueber den faulen Hund . 
+Ein langsame aufgeregte Fuchs huepfte ueber den faulen Hund . 
+Ein langsame aufgeregte Fuchs ass ueber den faulen Hund . 
+Ein langsame aufgeregte Hund sprang ueber den faulen Hund . 
+Ein langsame aufgeregte Hund springt ueber den faulen Hund . 
+Ein langsame aufgeregte Hund huepfte ueber den faulen Hund . 
+Ein langsame aufgeregte Hund ass ueber den faulen Hund . 
+Ein langsame aufgeregte Kuehlschrank sprang ueber den faulen Hund . 
+Ein langsame aufgeregte Kuehlschrank springt ueber den faulen Hund . 
+Ein langsame aufgeregte Kuehlschrank huepfte ueber den faulen Hund . 
+Ein langsame aufgeregte Kuehlschrank ass ueber den faulen Hund . 
+Zwei schnelle braune Fuchs sprang ueber den faulen Hund . 
+Zwei schnelle braune Fuchs springt ueber den faulen Hund . 
+Zwei schnelle braune Fuchs huepfte ueber den faulen Hund . 
+Zwei schnelle braune Fuchs ass ueber den faulen Hund . 
+Zwei schnelle braune Hund sprang ueber den faulen Hund . 
+Zwei schnelle braune Hund springt ueber den faulen Hund . 
+Zwei schnelle braune Hund huepfte ueber den faulen Hund . 
+Zwei schnelle braune Hund ass ueber den faulen Hund . 
+Zwei schnelle braune Kuehlschrank sprang ueber den faulen Hund . 
+Zwei schnelle braune Kuehlschrank springt ueber den faulen Hund . 
+Zwei schnelle braune Kuehlschrank huepfte ueber den faulen Hund . 
+Zwei schnelle braune Kuehlschrank ass ueber den faulen Hund . 
+Zwei schnelle gruene Fuchs sprang ueber den faulen Hund . 
+Zwei schnelle gruene Fuchs springt ueber den faulen Hund . 
+Zwei schnelle gruene Fuchs huepfte ueber den faulen Hund . 
+Zwei schnelle gruene Fuchs ass ueber den faulen Hund . 
+Zwei schnelle gruene Hund sprang ueber den faulen Hund . 
+Zwei schnelle gruene Hund springt ueber den faulen Hund . 
+Zwei schnelle gruene Hund huepfte ueber den faulen Hund . 
+Zwei schnelle gruene Hund ass ueber den faulen Hund . 
+Zwei schnelle gruene Kuehlschrank sprang ueber den faulen Hund . 
+Zwei schnelle gruene Kuehlschrank springt ueber den faulen Hund . 
+Zwei schnelle gruene Kuehlschrank huepfte ueber den faulen Hund . 
+Zwei schnelle gruene Kuehlschrank ass ueber den faulen Hund . 
+Zwei schnelle faule Fuchs sprang ueber den faulen Hund . 
+Zwei schnelle faule Fuchs springt ueber den faulen Hund . 
+Zwei schnelle faule Fuchs huepfte ueber den faulen Hund . 
+Zwei schnelle faule Fuchs ass ueber den faulen Hund . 
+Zwei schnelle faule Hund sprang ueber den faulen Hund . 
+Zwei schnelle faule Hund springt ueber den faulen Hund . 
+Zwei schnelle faule Hund huepfte ueber den faulen Hund . 
+Zwei schnelle faule Hund ass ueber den faulen Hund . 
+Zwei schnelle faule Kuehlschrank sprang ueber den faulen Hund . 
+Zwei schnelle faule Kuehlschrank springt ueber den faulen Hund . 
+Zwei schnelle faule Kuehlschrank huepfte ueber den faulen Hund . 
+Zwei schnelle faule Kuehlschrank ass ueber den faulen Hund . 
+Zwei schnelle aufgeregte Fuchs sprang ueber den faulen Hund . 
+Zwei schnelle aufgeregte Fuchs springt ueber den faulen Hund . 
+Zwei schnelle aufgeregte Fuchs huepfte ueber den faulen Hund . 
+Zwei schnelle aufgeregte Fuchs ass ueber den faulen Hund . 
+Zwei schnelle aufgeregte Hund sprang ueber den faulen Hund . 
+Zwei schnelle aufgeregte Hund springt ueber den faulen Hund . 
+Zwei schnelle aufgeregte Hund huepfte ueber den faulen Hund . 
+Zwei schnelle aufgeregte Hund ass ueber den faulen Hund . 
+Zwei schnelle aufgeregte Kuehlschrank sprang ueber den faulen Hund . 
+Zwei schnelle aufgeregte Kuehlschrank springt ueber den faulen Hund . 
+Zwei schnelle aufgeregte Kuehlschrank huepfte ueber den faulen Hund . 
+Zwei schnelle aufgeregte Kuehlschrank ass ueber den faulen Hund . 
+Zwei rote braune Fuchs sprang ueber den faulen Hund . 
+Zwei rote braune Fuchs springt ueber den faulen Hund . 
+Zwei rote braune Fuchs huepfte ueber den faulen Hund . 
+Zwei rote braune Fuchs ass ueber den faulen Hund . 
+Zwei rote braune Hund sprang ueber den faulen Hund . 
+Zwei rote braune Hund springt ueber den faulen Hund . 
+Zwei rote braune Hund huepfte ueber den faulen Hund . 
+Zwei rote braune Hund ass ueber den faulen Hund . 
+Zwei rote braune Kuehlschrank sprang ueber den faulen Hund . 
+Zwei rote braune Kuehlschrank springt ueber den faulen Hund . 
+Zwei rote braune Kuehlschrank huepfte ueber den faulen Hund . 
+Zwei rote braune Kuehlschrank ass ueber den faulen Hund . 
+Zwei rote gruene Fuchs sprang ueber den faulen Hund . 
+Zwei rote gruene Fuchs springt ueber den faulen Hund . 
+Zwei rote gruene Fuchs huepfte ueber den faulen Hund . 
+Zwei rote gruene Fuchs ass ueber den faulen Hund . 
+Zwei rote gruene Hund sprang ueber den faulen Hund . 
+Zwei rote gruene Hund springt ueber den faulen Hund . 
+Zwei rote gruene Hund huepfte ueber den faulen Hund . 
+Zwei rote gruene Hund ass ueber den faulen Hund . 
+Zwei rote gruene Kuehlschrank sprang ueber den faulen Hund . 
+Zwei rote gruene Kuehlschrank springt ueber den faulen Hund . 
+Zwei rote gruene Kuehlschrank huepfte ueber den faulen Hund . 
+Zwei rote gruene Kuehlschrank ass ueber den faulen Hund . 
+Zwei rote faule Fuchs sprang ueber den faulen Hund . 
+Zwei rote faule Fuchs springt ueber den faulen Hund . 
+Zwei rote faule Fuchs huepfte ueber den faulen Hund . 
+Zwei rote faule Fuchs ass ueber den faulen Hund . 
+Zwei rote faule Hund sprang ueber den faulen Hund . 
+Zwei rote faule Hund springt ueber den faulen Hund . 
+Zwei rote faule Hund huepfte ueber den faulen Hund . 
+Zwei rote faule Hund ass ueber den faulen Hund . 
+Zwei rote faule Kuehlschrank sprang ueber den faulen Hund . 
+Zwei rote faule Kuehlschrank springt ueber den faulen Hund . 
+Zwei rote faule Kuehlschrank huepfte ueber den faulen Hund . 
+Zwei rote faule Kuehlschrank ass ueber den faulen Hund . 
+Zwei rote aufgeregte Fuchs sprang ueber den faulen Hund . 
+Zwei rote aufgeregte Fuchs springt ueber den faulen Hund . 
+Zwei rote aufgeregte Fuchs huepfte ueber den faulen Hund . 
+Zwei rote aufgeregte Fuchs ass ueber den faulen Hund . 
+Zwei rote aufgeregte Hund sprang ueber den faulen Hund . 
+Zwei rote aufgeregte Hund springt ueber den faulen Hund . 
+Zwei rote aufgeregte Hund huepfte ueber den faulen Hund . 
+Zwei rote aufgeregte Hund ass ueber den faulen Hund . 
+Zwei rote aufgeregte Kuehlschrank sprang ueber den faulen Hund . 
+Zwei rote aufgeregte Kuehlschrank springt ueber den faulen Hund . 
+Zwei rote aufgeregte Kuehlschrank huepfte ueber den faulen Hund . 
+Zwei rote aufgeregte Kuehlschrank ass ueber den faulen Hund . 
+Zwei langsame braune Fuchs sprang ueber den faulen Hund . 
+Zwei langsame braune Fuchs springt ueber den faulen Hund . 
+Zwei langsame braune Fuchs huepfte ueber den faulen Hund . 
+Zwei langsame braune Fuchs ass ueber den faulen Hund . 
+Zwei langsame braune Hund sprang ueber den faulen Hund . 
+Zwei langsame braune Hund springt ueber den faulen Hund . 
+Zwei langsame braune Hund huepfte ueber den faulen Hund . 
+Zwei langsame braune Hund ass ueber den faulen Hund . 
+Zwei langsame braune Kuehlschrank sprang ueber den faulen Hund . 
+Zwei langsame braune Kuehlschrank springt ueber den faulen Hund . 
+Zwei langsame braune Kuehlschrank huepfte ueber den faulen Hund . 
+Zwei langsame braune Kuehlschrank ass ueber den faulen Hund . 
+Zwei langsame gruene Fuchs sprang ueber den faulen Hund . 
+Zwei langsame gruene Fuchs springt ueber den faulen Hund . 
+Zwei langsame gruene Fuchs huepfte ueber den faulen Hund . 
+Zwei langsame gruene Fuchs ass ueber den faulen Hund . 
+Zwei langsame gruene Hund sprang ueber den faulen Hund . 
+Zwei langsame gruene Hund springt ueber den faulen Hund . 
+Zwei langsame gruene Hund huepfte ueber den faulen Hund . 
+Zwei langsame gruene Hund ass ueber den faulen Hund . 
+Zwei langsame gruene Kuehlschrank sprang ueber den faulen Hund . 
+Zwei langsame gruene Kuehlschrank springt ueber den faulen Hund . 
+Zwei langsame gruene Kuehlschrank huepfte ueber den faulen Hund . 
+Zwei langsame gruene Kuehlschrank ass ueber den faulen Hund . 
+Zwei langsame faule Fuchs sprang ueber den faulen Hund . 
+Zwei langsame faule Fuchs springt ueber den faulen Hund . 
+Zwei langsame faule Fuchs huepfte ueber den faulen Hund . 
+Zwei langsame faule Fuchs ass ueber den faulen Hund . 
+Zwei langsame faule Hund sprang ueber den faulen Hund . 
+Zwei langsame faule Hund springt ueber den faulen Hund . 
+Zwei langsame faule Hund huepfte ueber den faulen Hund . 
+Zwei langsame faule Hund ass ueber den faulen Hund . 
+Zwei langsame faule Kuehlschrank sprang ueber den faulen Hund . 
+Zwei langsame faule Kuehlschrank springt ueber den faulen Hund . 
+Zwei langsame faule Kuehlschrank huepfte ueber den faulen Hund . 
+Zwei langsame faule Kuehlschrank ass ueber den faulen Hund . 
+Zwei langsame aufgeregte Fuchs sprang ueber den faulen Hund . 
+Zwei langsame aufgeregte Fuchs springt ueber den faulen Hund . 
+Zwei langsame aufgeregte Fuchs huepfte ueber den faulen Hund . 
+Zwei langsame aufgeregte Fuchs ass ueber den faulen Hund . 
+Zwei langsame aufgeregte Hund sprang ueber den faulen Hund . 
+Zwei langsame aufgeregte Hund springt ueber den faulen Hund . 
+Zwei langsame aufgeregte Hund huepfte ueber den faulen Hund . 
+Zwei langsame aufgeregte Hund ass ueber den faulen Hund . 
+Zwei langsame aufgeregte Kuehlschrank sprang ueber den faulen Hund . 
+Zwei langsame aufgeregte Kuehlschrank springt ueber den faulen Hund . 
+Zwei langsame aufgeregte Kuehlschrank huepfte ueber den faulen Hund . 
+Zwei langsame aufgeregte Kuehlschrank ass ueber den faulen Hund . 
