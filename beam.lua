@@ -259,8 +259,8 @@ function generate_beam(model, initial, K, max_sent_l, source, gold)
             decoder_softmax.output[{ {}, source_l }]:zero()
         end
         --SEB Store current attention
---        print(decoder_softmax.output)
---        print(saved_soft_attn[soft_attn_pos])
+        -- print(decoder_softmax.output)
+        -- print(saved_soft_attn:size())
         saved_soft_attn[soft_attn_pos]:copy(decoder_softmax.output)
         soft_attn_pos = soft_attn_pos + 1
 
@@ -320,6 +320,10 @@ function generate_beam(model, initial, K, max_sent_l, source, gold)
             end
         end
     end
+
+    --SEB
+    table.insert(saved_attn_offsets, soft_attn_pos)
+
 
     local gold_score = 0
     if opt.score_gold == 1 then
@@ -613,10 +617,11 @@ function main()
     saved_decoder_offsets = {}
     saved_decoder_position = 1
 
-    saved_soft_attn = torch.zeros(10000, model_opt.num_layers+1, 9)
+    saved_soft_attn = torch.zeros(10000, 9)
     soft_attn_pos = 1
 
     saved_attn = torch.zeros(10000, MAX_SENT_L)
+    saved_attn_offsets = {}
     attn_position = 1
 
 
@@ -707,6 +712,7 @@ function main()
         saved_attn[attn_position]:narrow(1, 1, #attn):copy(torch.Tensor(attn))
         attn_position = attn_position + 1
 
+
         if opt.n_best > 1 then
             for n = 1, opt.n_best do
                 pred_sent_n = wordidx2sent(all_sents[n], idx2word_targ, source_str, all_attn[n], false)
@@ -735,6 +741,7 @@ function main()
 
     f = hdf5.open("softattention.hdf5", "w")
     f:write("attention", saved_soft_attn)
+    f:write("offsets", torch.LongTensor(saved_attn_offsets))
     f:close()
 
 
