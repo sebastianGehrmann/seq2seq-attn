@@ -148,6 +148,8 @@ function generate_beam(model, initial, K, max_sent_l, source, gold)
     end
     local context = context_proto[{ {}, { 1, source_l } }]:clone() -- 1 x source_l x rnn_size
 
+    --SEB: save current position
+    print("ENCODER POS", saved_encoder_position)
     table.insert(saved_encoder_offsets, saved_encoder_position)
     for t = 1, source_l do
         local encoder_input = { source_input[t], table.unpack(rnn_state_enc) }
@@ -197,7 +199,6 @@ function generate_beam(model, initial, K, max_sent_l, source, gold)
             table.insert(rnn_state_dec_gold, rnn_state_dec[i][{ { 1 } }]:clone())
         end
     end
---    print(model_opt.rnn_size)
     context = context:expand(K, source_l, model_opt.rnn_size)
 
     if opt.gpuid >= 0 and opt.gpuid2 >= 0 then
@@ -213,6 +214,12 @@ function generate_beam(model, initial, K, max_sent_l, source, gold)
     local done = false
     local max_score = -1e9
     local found_eos = false
+
+    --SEB
+    print("ATTN POS", soft_attn_pos)
+
+    table.insert(saved_attn_offsets, soft_attn_pos)
+
     while (not done) and (i < n) do
         i = i + 1
         states[i] = {}
@@ -321,12 +328,11 @@ function generate_beam(model, initial, K, max_sent_l, source, gold)
         end
     end
 
-    --SEB
-    table.insert(saved_attn_offsets, soft_attn_pos)
 
 
     local gold_score = 0
     if opt.score_gold == 1 then
+        print("DECODER POS", saved_decoder_position)
 
         table.insert(saved_decoder_offsets, saved_decoder_position)
         rnn_state_dec = {}
@@ -604,7 +610,7 @@ function main()
         end
     end
 
-    --SEB: the 10000 hard limit creates overflow.
+    --SEB: the 10000 hard limit creates overflow in long files.
 
     saved_encoder_states = torch.zeros(10000, 2 * model_opt.num_layers, model_opt.rnn_size)
     saved_encoder_ids = torch.zeros(10000)
@@ -617,7 +623,7 @@ function main()
     saved_decoder_offsets = {}
     saved_decoder_position = 1
 
-    saved_soft_attn = torch.zeros(10000, 9)
+    saved_soft_attn = torch.zeros(10000, 10)
     soft_attn_pos = 1
 
     saved_attn = torch.zeros(10000, MAX_SENT_L)
@@ -693,6 +699,7 @@ function main()
             target, target_str = sent2wordidx(gold[sent_id], word2idx_targ, 1)
         end
         state = State.initial(START)
+        print("Sentence", sent_id, source:size(1))
         pred, pred_score, attn, gold_score, all_sents, all_scores, all_attn = generate_beam(model,
             state, opt.beam, MAX_SENT_L, source, target)
         pred_score_total = pred_score_total + pred_score
