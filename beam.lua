@@ -215,10 +215,7 @@ function generate_beam(model, initial, K, max_sent_l, source, gold)
     local max_score = -1e9
     local found_eos = false
 
-    --SEB
-    print("ATTN POS", soft_attn_pos)
-
-    table.insert(saved_attn_offsets, soft_attn_pos)
+    
 
     while (not done) and (i < n) do
         i = i + 1
@@ -265,12 +262,6 @@ function generate_beam(model, initial, K, max_sent_l, source, gold)
             decoder_softmax.output[{ {}, 1 }]:zero()
             decoder_softmax.output[{ {}, source_l }]:zero()
         end
-        --SEB Store current attention
-        -- print(decoder_softmax.output)
-        -- print(saved_soft_attn:size())
-        saved_soft_attn[soft_attn_pos]:copy(decoder_softmax.output)
-        soft_attn_pos = soft_attn_pos + 1
-
 
 
         for k = 1, K do
@@ -333,7 +324,9 @@ function generate_beam(model, initial, K, max_sent_l, source, gold)
     local gold_score = 0
     if opt.score_gold == 1 then
         print("DECODER POS", saved_decoder_position)
-
+        --SEB
+        print("ATTN POS", soft_attn_pos)
+        table.insert(saved_attn_offsets, soft_attn_pos)
         table.insert(saved_decoder_offsets, saved_decoder_position)
         rnn_state_dec = {}
         for i = 1, #init_fwd_dec do
@@ -363,6 +356,12 @@ function generate_beam(model, initial, K, max_sent_l, source, gold)
                 table.insert(rnn_state_dec, out_decoder[#out_decoder])
             end
 
+            --SEB Store current attention
+            --print(decoder_softmax.output)
+            -- print(saved_soft_attn:size())
+            saved_soft_attn[soft_attn_pos]:copy(decoder_softmax.output)
+            soft_attn_pos = soft_attn_pos + 1
+
             for j = 1, #out_decoder - 1 do
                 table.insert(rnn_state_dec, out_decoder[j])
             end
@@ -371,7 +370,6 @@ function generate_beam(model, initial, K, max_sent_l, source, gold)
             end
             saved_decoder_ids[saved_decoder_position] = decoder_input1
             saved_decoder_position = saved_decoder_position + 1
---            print(decoder_softmax.output)
 
             gold_score = gold_score + out[1][gold[t]]
         end
