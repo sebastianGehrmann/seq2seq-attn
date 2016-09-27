@@ -622,7 +622,7 @@ function main()
     saved_decoder_offsets = {}
     saved_decoder_position = 1
 
-    saved_soft_attn = torch.zeros(storage_size, 12)
+    saved_soft_attn = torch.zeros(storage_size, 11)
     soft_attn_pos = 1
 
     saved_attn = torch.zeros(storage_size, MAX_SENT_L)
