@@ -609,22 +609,23 @@ function main()
     end
 
     --SEB: the 10000 hard limit creates overflow in long files.
+    local storage_size = 100
 
-    saved_encoder_states = torch.zeros(10000, 2 * model_opt.num_layers, model_opt.rnn_size)
-    saved_encoder_ids = torch.zeros(10000)
+    saved_encoder_states = torch.zeros(storage_size, 2 * model_opt.num_layers, model_opt.rnn_size)
+    saved_encoder_ids = torch.zeros(storage_size)
     saved_encoder_offsets = {}
     saved_encoder_position = 1
 
 
-    saved_decoder_states = torch.zeros(10000, 2 * model_opt.num_layers, model_opt.rnn_size)
-    saved_decoder_ids = torch.zeros(10000)
+    saved_decoder_states = torch.zeros(storage_size, 2 * model_opt.num_layers, model_opt.rnn_size)
+    saved_decoder_ids = torch.zeros(storage_size)
     saved_decoder_offsets = {}
     saved_decoder_position = 1
 
-    saved_soft_attn = torch.zeros(10000, 11)
+    saved_soft_attn = torch.zeros(storage_size, 11)
     soft_attn_pos = 1
 
-    saved_attn = torch.zeros(10000, MAX_SENT_L)
+    saved_attn = torch.zeros(storage_size, MAX_SENT_L)
     saved_attn_offsets = {}
     attn_position = 1
 
