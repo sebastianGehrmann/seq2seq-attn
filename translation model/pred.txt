@@ -1,0 +1,432 @@
+Der schnelle braune Fuchs sprang über den faulen Hund .
+Der schnelle braune Fuchs springt über den faulen Hund .
+Der schnelle braune Fuchs über den faulen Hund übersprungen .
+Der schnelle braune Fuchs <unk> über den faulen Hund .
+Der schnelle braune Hund sprang über den faulen Hund .
+Der schnelle braune Hund springt über den faulen Hund .
+Der schnelle braune Hund , der über dem faulen Hund <unk> .
+Der schnelle braune Hund , der über den faulen Hund <unk> .
+Der schnelle braune Kühlschrank sprang über den faulen Hund .
+Der schnelle braune Kühlschrank springt über den faulen Hund .
+Der schnelle braune Kühlschrank , der über dem faulen Hund <unk> .
+Der schnelle braune Kühlschrank <unk> über den faulen Hund .
+Der schnelle grüne Fuchs sprang über den faulen Hund .
+Der schnelle grüne Fuchs springt über den faulen Hund .
+Der schnelle grüne Fuchs , der über dem faulen Hund <unk> .
+Der schnelle grüne Fuchs <unk> über den faulen Hund .
+Der schnelle grüne Hund sprang über den faulen Hund .
+Der schnelle grüne Hund springt über den faulen Hund .
+Der schnelle grüne Hund , der über den faulen Hund <unk> ist .
+Der schnelle grüne Hund <unk> über den faulen Hund .
+Der schnelle grüne Kühlschrank sprang über den faulen Hund .
+Der schnelle grüne Kühlschrank springt über den faulen Hund .
+Der schnelle grüne Kühlschrank , der über dem faulen Hund <unk> wird .
+Der schnelle grüne Kühlschrank <unk> über den faulen Hund .
+Der schnelle faule Fuchs sprang über den faulen Hund .
+Der schnelle <unk> Fuchs springt über den faulen Hund .
+Der schnelle faule Fuchs über den faulen Hund überspringen .
+Der schnelle faule Fuchs <unk> über den faulen Hund .
+Der schnelle <unk> Hund sprang über den faulen Hund .
+Der schnelle <unk> springt über den faulen Hund .
+Der schnelle <unk> Hund , der über den faulen Hund <unk> ist .
+Der schnelle <unk> Hund über den faulen Hund <unk> .
+Der schnelle faule Kühlschrank sprang über den faulen Hund .
+Der schnelle faule Kühlschrank springt über den faulen Hund .
+Der schnelle faule Kühlschrank , der über dem faulen Hund <unk> .
+Der schnelle faule Kühlschrank <unk> über den faulen Hund .
+Der schnell aufgeregt Fuchs sprang über den faulen Hund .
+Der schnell aufgeregt Fuchs springt über den faulen Hund .
+Der schnell aufgeregt Fuchs über den faulen Hund überspringen .
+Der schnell aufgeregt Fuchs <unk> über den faulen Hund .
+Der schnell aufgeregt Hund sprang über den faulen Hund .
+Der schnell aufgeregt Hund springt über den faulen Hund .
+Der schnell aufgeregt Hund über den faulen Hund übersprungen .
+Der schnell aufgeregt Hund <unk> über den faulen Hund .
+Der schnell aufgeregt Kühlschrank sprang über den faulen Hund .
+Der schnell aufgeregt Kühlschrank springt über den faulen Hund .
+Der schnell aufgeregt Kühlschrank übersprungen über den faulen Hund .
+Der schnell aufgeregt Kühlschrank <unk> über den faulen Hund .
+Der rote braune Fuchs sprang über den faulen Hund .
+Der rote braune Fuchs springt über den faulen Hund .
+Der rote Fuchs <unk> über dem faulen Hund .
+Der rote Fuchs Fuchs <unk> über den faulen Hund .
+Der rote <unk> Hund sprang über den faulen Hund .
+Der rote <unk> springt über den faulen Hund .
+Der rote <unk> Hund , der über dem faulen Hund <unk> .
+Der rote <unk> Hund <unk> über den faulen Hund .
+Der rote braune Kühlschrank sprang über den faulen Hund .
+Der rote braune Kühlschrank springt über den faulen Hund .
+Der rote braune Kühlschrank , der über dem faulen Hund <unk> .
+Der rote braune Kühlschrank <unk> über den faulen Hund .
+Der rote grüne Fuchs sprang über den faulen Hund .
+Der rote grüne Fuchs springt über den faulen Hund .
+Der rote grüne Fuchs über den faulen Hund übersprungen .
+Der rote grüne Fuchs <unk> über den faulen Hund .
+Der rote grüne Hund sprang über den faulen Hund .
+Der rote grüne Hund springt über den faulen Hund .
+Der rote grüne Hund , der über dem faulen Hund <unk> wird .
+Der rote grüne Hund <unk> über den faulen Hund .
+Der rote grüne Kühlschrank sprang über den faulen Hund .
+Der rote grüne Kühlschrank springt über den faulen Hund .
+Der rote grüne Kühlschrank , der über dem faulen Hund <unk> wird .
+Der rote grüne Kühlschrank <unk> über den faulen Hund .
+Der rote faule Fuchs sprang über den faulen Hund .
+Der rote faule Fuchs springt über den faulen Hund .
+Der rote faule Fuchs , der über den faulen Hund <unk> .
+Der rote faule Fuchs <unk> über den faulen Hund .
+Der rote faule Hund sprang über den faulen Hund .
+Der rote faule Hund springt über den faulen Hund .
+Der rote faule Hund , der über den faulen Hund <unk> .
+Der rote faule Hund <unk> über den faulen Hund .
+Der rote faule Kühlschrank sprang über den faulen Hund .
+Der rote faule Kühlschrank springt über den faulen Hund .
+Der rote faule Kühlschrank , der über dem faulen Hund <unk> .
+Der rote faule Kühlschrank <unk> über den faulen Hund .
+Der rote aufgeregt Fuchs sprang über den faulen Hund .
+Der rote <unk> Fuchs springt über den faulen Hund .
+Der rote aufgeregt Fuchs über den faulen Hund <unk> .
+Der rote aufgeregt Fuchs <unk> über den faulen Hund .
+Der rote <unk> Hund sprang über den faulen Hund .
+Der rote <unk> Hund springt über den faulen Hund .
+Der rote <unk> Hund übersprungen über den faulen Hund .
+Der rote <unk> Hund <unk> über den faulen Hund .
+Der rote <unk> Kühlschrank sprang über den faulen Hund .
+Der rote <unk> Kühlschrank springt über den faulen Hund .
+Der rote <unk> Kühlschrank , der über dem faulen Hund <unk> .
+Der rote <unk> Kühlschrank <unk> über den faulen Hund .
+Der langsame braune Fuchs sprang über den faulen Hund .
+Der langsame braune Fuchs springt über den faulen Hund .
+Der langsame braune Fuchs über den faulen Hund übersprungen .
+Der langsame braune Fuchs <unk> über den faulen Hund .
+Der langsame braune Hund sprang über den faulen Hund .
+Der langsame braune Hund springt über den faulen Hund .
+Der langsame braune Hund , der über dem faulen Hund <unk> .
+Der <unk> Hund <unk> über den faulen Hund .
+Der langsame braune Kühlschrank sprang über den faulen Hund .
+Der langsame braune Kühlschrank springt über den faulen Hund .
+Der <unk> braune Kühlschrank , der über dem faulen Hund <unk> .
+Der <unk> <unk> <unk> über den faulen Hund .
+Der langsame grüne Fuchs sprang über den faulen Hund .
+Der langsame grüne Fuchs springt über den faulen Hund .
+Der langsame grüne Fuchs , der über dem faulen Hund <unk> .
+Der langsame grüne Fuchs <unk> über den faulen Hund .
+Der langsame grüne Hund sprang über den faulen Hund .
+Der langsame grüne Hund springt über den faulen Hund .
+Der langsame grüne Hund , der über den faulen Hund <unk> .
+Der langsame grüne Hund <unk> über den faulen Hund .
+Der langsame grüne Kühlschrank sprang über den faulen Hund .
+Der langsame grüne Kühlschrank springt über den faulen Hund .
+Der langsame grüne Kühlschrank , der über dem faulen Hund <unk> wird .
+Der langsame grüne Kühlschrank <unk> über den faulen Hund .
+Der langsame faule Fuchs sprang über den faulen Hund .
+Der langsame <unk> Fuchs springt über den faulen Hund .
+Der langsame faule Fuchs über den faulen Hund übersprungen .
+Der langsame faule Fuchs <unk> über den faulen Hund .
+Der langsame <unk> Hund sprang über den faulen Hund .
+Der langsame <unk> Hund springt über den faulen Hund .
+Der langsame <unk> Hund , der über den faulen Hund <unk> .
+Der langsame <unk> Hund <unk> über den faulen Hund .
+Der langsame faule Kühlschrank sprang über den faulen Hund .
+Der langsame faule Kühlschrank springt über den faulen Hund .
+Der langsame faule Kühlschrank , der über dem faulen Hund <unk> .
+Der langsame faule Kühlschrank <unk> über den faulen Hund .
+Der langsame <unk> Fuchs sprang über den faulen Hund .
+Der langsame Fuchs springt über den faulen Hund .
+Der langsame <unk> Fuchs über den faulen Hund <unk> .
+Der langsam aufgeregt Fuchs <unk> über den faulen Hund .
+Der langsame <unk> Hund sprang über den faulen Hund .
+Der langsame <unk> Hund springt über den faulen Hund .
+Der langsame <unk> Hund , der über den faulen Hund <unk> .
+Der langsame <unk> Hund <unk> über den faulen Hund .
+Der langsam aufgeregt Kühlschrank sprang über den faulen Hund .
+Der langsam aufgeregt Kühlschrank springt über den faulen Hund .
+Der langsam aufgeregt Kühlschrank , der über dem faulen Hund <unk> .
+Der langsam aufgeregt Kühlschrank <unk> über den faulen Hund .
+Ein schneller braune Fuchs sprang über den faulen Hund .
+Ein schneller braune Fuchs springt über den faulen Hund .
+Ein schneller braune Fuchs über den faulen Hund übersprungen .
+Ein schneller braune Fuchs <unk> über den faulen Hund .
+Ein schneller braune Hund sprang über den faulen Hund .
+Ein schneller braune Hund springt über den faulen Hund .
+Ein schneller braune Hund , der über den faulen Hund <unk> ist .
+Ein schneller braunen Hund über den faulen Hund <unk> .
+Ein schneller Orangensaft sprang über den faulen Hund .
+Ein schneller Orangensaft springt über den faulen Hund .
+Ein schneller Orangensaft , der über dem faulen Hund <unk> wird .
+Ein schneller Orangensaft <unk> über den faulen Hund .
+Ein schneller grüner Fuchs sprang über den faulen Hund .
+Ein schneller grüner Fuchs springt über den faulen Hund .
+Ein schneller grüner Fuchs , der über den faulen Hund <unk> .
+Ein schneller grüner Fuchs <unk> über den faulen Hund .
+Ein schneller grüner Hund sprang über den faulen Hund .
+Ein schneller grüner Hund springt über den faulen Hund .
+Ein schneller grüner Hund , der über den faulen Hund <unk> ist .
+Ein schneller grüner Hund <unk> über den faulen Hund .
+Ein schneller grüner Kühlschrank sprang über den faulen Hund .
+Ein schneller grüner Kühlschrank springt über den faulen Hund .
+Ein schneller grüner Kühlschrank , der über dem faulen Hund übersprungen wird .
+Ein schneller grüner Kühlschrank <unk> über den faulen Hund .
+Ein kurzer <unk> Fuchs sprang über den faulen Hund .
+Ein kurzer <unk> Fuchs springt über den faulen Hund .
+Ein schneller <unk> Fuchs über den faulen Hund übersprungen .
+Ein kurzer <unk> Fuchs <unk> über den faulen Hund .
+Ein kurzer <unk> Hund sprang über den faulen Hund .
+Ein kurzer <unk> springt über den faulen Hund .
+Ein schneller <unk> Hund über den faulen Hund <unk> .
+Ein kurzer <unk> Hund über den faulen Hund <unk> .
+Ein kurzer <unk> sprang über den faulen Hund .
+Ein kurzer <unk> springt über den faulen Hund .
+Ein schneller <unk> Kühlschrank , der über dem faulen Hund <unk> ist .
+Ein kurzer <unk> Kühlschrank <unk> über den faulen Hund .
+Ein schnell aufgeregt Fuchs sprang über den faulen Hund .
+Ein schnell <unk> Fuchs springt über den faulen Hund .
+Ein schnell aufgeregt Fuchs über den faulen Hund überspringen .
+Ein schnell <unk> Fuchs <unk> über den faulen Hund .
+Ein schnell <unk> Hund sprang über den faulen Hund .
+Ein schnell <unk> Hund springt über den faulen Hund .
+Ein schnell <unk> Hund über den faulen Hund <unk> .
+Ein kurzer <unk> Hund <unk> über den faulen Hund .
+Ein schnell aufgeregt Kühlschrank sprang über den faulen Hund .
+Ein schnell <unk> Kühlschrank springt über den faulen Hund .
+Ein schnell <unk> Kühlschrank , der über den faulen Hund <unk> .
+Ein schnell aufgeregt Kühlschrank <unk> über die faule Hund .
+Ein rotes <unk> sprang über den faulen Hund .
+Ein rotes <unk> springt über den faulen Hund .
+Ein rotes <unk> Fuchs , der über dem faulen Hund <unk> .
+Ein rotes <unk> <unk> über den faulen Hund .
+Ein <unk> Hund sprang über den faulen Hund .
+Ein <unk> <unk> springt über den faulen Hund .
+Ein <unk> Hund , der über dem faulen Hund <unk> ist .
+Ein <unk> Hund <unk> über den faulen Hund .
+Ein rotes <unk> <unk> über den faulen Hund .
+Ein rotes <unk> springt über den faulen Hund .
+Ein rotes <unk> , der über dem faulen Hund <unk> wird .
+Ein rotes <unk> <unk> über den faulen Hund .
+Ein rotes grüner Fuchs sprang über den faulen Hund .
+Ein rotes Grüner Fuchs springt über den faulen Hund .
+Ein rotes grüner Fuchs , der über dem faulen Hund <unk> .
+Ein rotes Grüner Fuchs <unk> über den faulen Hund .
+Ein rotes <unk> sprang über den faulen Hund .
+Ein rotes Grüner Hund springt über den faulen Hund .
+Ein rotes <unk> , das über dem faulen Hund <unk> wird .
+Ein rotes <unk> <unk> über den faulen Hund .
+Ein rotes grüner Kühlschrank sprang über den faulen Hund .
+Ein rotes Grün <unk> über den faulen Hund .
+Ein rotes Grün , der über dem faulen Hund <unk> wird .
+Ein rotes grünem Kühlschrank <unk> über den faulen Hund .
+Ein rotes <unk> Fuchs sprang über den faulen Hund .
+Ein rotes <unk> Fuchs springt über den faulen Hund .
+Ein rotes <unk> Fuchs , der über den faulen Hund <unk> .
+Ein rotes <unk> Fuchs <unk> über den faulen Hund .
+Ein rotes <unk> <unk> über den faulen Hund .
+Ein rotes <unk> springt über den faulen Hund .
+Ein rotes <unk> , das über den faulen Hund <unk> ist .
+Ein rotes <unk> Hund über den faulen Hund <unk> .
+Ein rotes <unk> <unk> über den faulen Hund .
+Ein rotes <unk> <unk> über den faulen Hund .
+Ein rotes <unk> , der über dem faulen Hund <unk> .
+Ein rotes <unk> <unk> über den faulen Hund .
+Ein roter <unk> Fuchs sprang über den faulen Hund .
+Ein roter <unk> Fuchs springt über den faulen Hund .
+Ein roter <unk> Fuchs über den faulen Hund <unk> .
+Ein roter <unk> Fuchs <unk> über den faulen Hund .
+Ein roter <unk> Hund sprang über den faulen Hund .
+Ein roter <unk> Hund springt über den faulen Hund .
+Ein roter <unk> Hund über dem faulen Hund übersprungen .
+Ein roter <unk> Hund <unk> über den faulen Hund .
+Ein roter <unk> Kühlschrank sprang über den faulen Hund .
+Ein roter <unk> Kühlschrank springt über den faulen Hund .
+Ein rotes <unk> Kühlschrank , der über dem faulen Hund <unk> .
+Ein roter <unk> Kühlschrank <unk> über den faulen Hund .
+Ein langsamer braune Fuchs sprang über den faulen Hund .
+Ein langsamer <unk> Fuchs springt über den faulen Hund .
+Ein langsamer braune Fuchs über den faulen Hund übersprungen .
+Ein langsamer braune Fuchs <unk> über den faulen Hund .
+Ein langsamer braune Hund sprang über den faulen Hund .
+Ein langsamer braune Hund springt über den faulen Hund .
+Ein langsamer <unk> Hund , der über den faulen Hund <unk> .
+Ein langsamer braune Hund <unk> über den faulen Hund .
+Ein langsamer braune Kühlschrank sprang über den faulen Hund .
+Ein langsamer braune Kühlschrank springt über den faulen Hund .
+Ein langsamer braune Kühlschrank , der über dem faulen Hund <unk> wird .
+Ein langsamer braune Kühlschrank <unk> über den faulen Hund .
+Ein langsamer grüner Fuchs sprang über den faulen Hund .
+Ein langsamer grüner Fuchs springt über den faulen Hund .
+Ein langsamer grüner Fuchs , der über den faulen Hund <unk> .
+Ein langsamer grüner Fuchs <unk> über den faulen Hund .
+Ein langsamer grüner Hund sprang über den faulen Hund .
+Ein langsamer grüner Hund springt über den faulen Hund .
+Ein langsamer grüner Hund , der über den faulen Hund <unk> ist .
+Ein langsamer grüner Hund <unk> über den faulen Hund .
+Ein langsamer grüner Kühlschrank sprang über den faulen Hund .
+Ein langsamer grüner Kühlschrank springt über den faulen Hund .
+Ein langsamer grüner Kühlschrank , der über dem faulen Hund <unk> wird .
+Ein langsamer grüner Kühlschrank <unk> über den faulen Hund .
+Ein langsamer <unk> Fuchs sprang über den faulen Hund .
+Ein langsamer <unk> Fuchs springt über den faulen Hund .
+Ein langsamer <unk> Fuchs über den faulen Hund übersprungen .
+Ein langsamer <unk> Fuchs <unk> über den faulen Hund .
+Ein langsamer <unk> Hund sprang über den faulen Hund .
+Ein langsamer <unk> Hund springt über den faulen Hund .
+Ein langsamer <unk> Hund , der über den faulen Hund <unk> .
+Ein langsamer <unk> Hund <unk> über den faulen Hund .
+Ein langsamer <unk> Kühlschrank sprang über den faulen Hund .
+Ein langsamer <unk> Kühlschrank springt über den faulen Hund .
+Ein langsamer , <unk> Kühlschrank , der über den faulen Hund <unk> ist .
+Ein langsamer <unk> Kühlschrank <unk> über den faulen Hund .
+Ein langsam <unk> Fuchs sprang über den faulen Hund .
+Ein langsam <unk> Fuchs springt über den faulen Hund .
+Ein langsam <unk> Fuchs über den faulen Hund <unk> .
+Ein langsam <unk> Fuchs <unk> über den faulen Hund .
+Ein langsam <unk> Hund sprang über den faulen Hund .
+Ein langsam <unk> Hund springt über den faulen Hund .
+Ein langsam <unk> Hund , der über den faulen Hund <unk> .
+Ein langsam <unk> Hund <unk> über den faulen Hund .
+Ein langsam <unk> Kühlschrank sprang über den faulen Hund .
+Ein langsam <unk> Kühlschrank springt über den faulen Hund .
+Ein langsam <unk> Kühlschrank , der über den faulen Hund <unk> .
+Ein langsam <unk> Kühlschrank <unk> über den faulen Hund .
+Zwei schnelle braune Fuchs sprang über den faulen Hund .
+Zwei schnelle braune Fuchs springt über den faulen Hund .
+Zwei schnelle braune Fuchs über den faulen Hund übersprungen .
+Zwei schnelle braune Fuchs <unk> über den faulen Hund .
+Zwei schnelle braune Hunde sprang über den faulen Hund .
+Zwei schnelle braune Hunde springen über den faulen Hund .
+Zwei schnelle braune Hunde , die über den faulen Hund <unk> .
+Zwei schnelle braune Hunde <unk> über den faulen Hund .
+Zwei schnelle braunen Kühlschrank sprang über den faulen Hund .
+Zwei schnelle braunen Kühlschrank springt über den faulen Hund .
+Zwei schnelle braune Kühlschrank , die über den faulen Hund übersprungen wird .
+Zwei schnelle braunen Kühlschrank <unk> über den faulen Hund .
+Zwei schnelle grüne Fuchs sprang über den faulen Hund .
+Zwei schnelle grüne Fuchs springt über den faulen Hund .
+Zwei schnelle grüne Fuchs über den faulen Hund übersprungen .
+Zwei schnelle grüne Fuchs <unk> über den faulen Hund .
+Zwei schnelle grüne Hund sprang über den faulen Hund .
+Zwei schnelle grüne Hunde springen über den faulen Hund .
+Zwei schnelle grüne Hunde , die über den faulen Hund <unk> .
+Zwei schnelle grüne Hunde <unk> über den faulen Hund .
+Zwei schnelle grüne Kühlschrank sprang über den faulen Hund .
+Zwei schnelle grüne Kühlschrank springt über den faulen Hund .
+Zwei schnelle grüne Kühlschrank , die über den faulen Hund übersprungen wird .
+Zwei schnelle grüne Kühlschrank <unk> über den faulen Hund .
+Zwei schnelle faule Fuchs sprang über den faulen Hund .
+Zwei schnelle <unk> <unk> über den faulen Hund .
+Zwei schnelle <unk> Fuchs über den faulen Hund übersprungen .
+Zwei schnelle faule Fuchs <unk> über den faulen Hund .
+Zwei schnelle <unk> Hund sprang über den faulen Hund .
+Zwei schnelle <unk> <unk> über den faulen Hund .
+Zwei schnelle <unk> <unk> über den faulen Hund .
+Zwei schnelle <unk> <unk> über den faulen Hund .
+Zwei schnelle faule Kühlschrank sprang über den faulen Hund .
+Zwei schnelle <unk> <unk> über den faulen Hund .
+Zwei schnelle <unk> , die über den faulen Hund <unk> .
+Zwei schnelle faule Kühlschrank <unk> über den faulen Hund .
+Zwei schnell aufgeregt Fuchs sprang über den faulen Hund .
+Zwei schnell <unk> Fuchs springt über den faulen Hund .
+Zwei schnell aufgeregt Fuchs über den faulen Hund überspringen .
+Zwei schnell aufgeregt Fuchs <unk> über den faulen Hund .
+Zwei schnell aufgeregt Hund sprang über den faulen Hund .
+Zwei schnelle <unk> <unk> über den faulen Hund .
+Zwei schnell <unk> Hunde <unk> über den faulen Hund .
+Zwei schnell <unk> Hunde <unk> über den faulen Hund .
+Zwei schnell aufgeregt Kühlschrank sprang über den faulen Hund .
+Zwei schnell aufgeregt Kühlschrank springt über den faulen Hund .
+Zwei schnell aufgeregt Kühlschrank übersprungen über den faulen Hund .
+Zwei schnell aufgeregt Kühlschrank <unk> über den faulen Hund .
+Zwei rote <unk> sprang über den faulen Hund .
+Zwei rote <unk> springen über den faulen Hund .
+Zwei rote <unk> <unk> über dem faulen Hund .
+Zwei rote <unk> <unk> über den faulen Hund .
+Zwei rote <unk> <unk> über den faulen Hund .
+Zwei rote <unk> <unk> über den faulen Hund .
+Zwei rote <unk> , die über den faulen Hund <unk> sind .
+Zwei rote <unk> <unk> über den faulen Hund .
+Zwei rote <unk> <unk> über den faulen Hund .
+Zwei rote <unk> springen über den faulen Hund .
+Zwei rote <unk> , die über den faulen Hund <unk> .
+Zwei rote <unk> <unk> über den faulen Hund .
+Zwei rote grüne Fuchs sprang über den faulen Hund .
+Zwei rote grüne Fuchs springt über den faulen Hund .
+Zwei rote grüne Fuchs über den faulen Hund übersprungen .
+Zwei rote grüne Fuchs <unk> über den faulen Hund .
+Zwei rote grüne Hunde sprang über den faulen Hund .
+Zwei rote <unk> <unk> über den faulen Hund .
+Zwei rote <unk> , die über den faulen Hund <unk> sind .
+Zwei rote <unk> <unk> über den faulen Hund .
+Zwei rote grüne Kühlschrank sprang über den faulen Hund .
+Zwei rote grüne Kühlschrank springt über den faulen Hund .
+Zwei rote grüne Kühlschrank , die über dem faulen Hund übersprungen wird .
+Zwei rote grüne Kühlschrank <unk> über den faulen Hund .
+Zwei rote <unk> Wölfe sprang über den faulen Hund .
+Zwei rote <unk> <unk> über den faulen Hund .
+Zwei rote <unk> Fuchs über den faulen Hund <unk> .
+Zwei rote <unk> <unk> über den faulen Hund .
+Zwei rote <unk> <unk> über den faulen Hund .
+Zwei rote <unk> <unk> über den faulen Hund .
+Zwei rote <unk> , die über den faulen Hund <unk> .
+Zwei rote <unk> <unk> über den faulen Hund .
+Zwei rote <unk> <unk> über den faulen Hund .
+Zwei rote <unk> <unk> über den faulen Hund .
+Zwei rote <unk> , die über den faulen Hund <unk> .
+Zwei rote <unk> <unk> über den faulen Hund .
+Zwei rote <unk> Fuchs sprang über den faulen Hund .
+Zwei rote <unk> Fuchs springt über den faulen Hund .
+Zwei rote <unk> Fuchs über den faulen Hund <unk> .
+Zwei rote <unk> Fuchs <unk> über den faulen Hund .
+Zwei rote <unk> Hunde sprang über den faulen Hund .
+Zwei rote <unk> <unk> über den faulen Hund .
+Zwei rote <unk> <unk> über den faulen Hund .
+Zwei rote <unk> Hund <unk> über den faulen Hund .
+Zwei rote <unk> <unk> über den faulen Hund .
+Zwei rote <unk> <unk> über den faulen Hund .
+Zwei rote <unk> <unk> über den faulen Hund .
+Zwei rote <unk> <unk> über den faulen Hund .
+Zwei langsame braune Fuchs sprang über den faulen Hund .
+Zwei langsame braune Fuchs springt über den faulen Hund .
+Zwei langsame braune Fuchs über den faulen Hund übersprungen .
+Zwei langsame braune Fuchs <unk> über den faulen Hund .
+Zwei langsame braune Hund sprang über den faulen Hund .
+Zwei langsame braune Hunde springen über den faulen Hund .
+Zwei langsame braune Hunde , die über den faulen Hund <unk> .
+Zwei langsame braune Hunde <unk> über den faulen Hund .
+Zwei langsame braunen Kühlschrank sprang über den faulen Hund .
+Zwei langsame braune Kühlschrank springt über den faulen Hund .
+Zwei langsame braune Kühlschrank über den faulen Hund übersprungen .
+Zwei langsame braunen Kühlschrank <unk> über den faulen Hund .
+Zwei langsame grüne Fuchs sprang über den faulen Hund .
+Zwei langsame grüne Fuchs springt über den faulen Hund .
+Zwei langsame grüne Fuchs über den faulen Hund übersprungen .
+Zwei langsame grüne Fuchs <unk> über den faulen Hund .
+Zwei langsame grüne Hund sprang über den faulen Hund .
+Zwei langsame grüne Hunde <unk> über den faulen Hund .
+Zwei langsame grüne Hund über den faulen Hund übersprungen .
+Zwei langsame grüne Hunde <unk> über den faulen Hund .
+Zwei langsame grüne Kühlschrank sprang über den faulen Hund .
+Zwei langsame grüne Kühlschrank springt über den faulen Hund .
+Zwei langsame grüne Kühlschrank über den faulen Hund übersprungen .
+Zwei langsame grüne Kühlschrank <unk> über den faulen Hund .
+Zwei langsame faule Fuchs sprang über den faulen Hund .
+Zwei langsame <unk> Fuchs springt über den faulen Hund .
+Zwei langsame <unk> Fuchs über den faulen Hund <unk> .
+Zwei langsame <unk> Fuchs <unk> über den faulen Hund .
+Zwei langsame <unk> Hunde sprang über den faulen Hund .
+Zwei langsame <unk> <unk> über den faulen Hund .
+Zwei langsame <unk> Hunde , die über den faulen Hund <unk> .
+Zwei langsame <unk> Hunde <unk> über den faulen Hund .
+Zwei langsame faule Kühlschrank sprang über den faulen Hund .
+Zwei langsame <unk> <unk> über den faulen Hund .
+Zwei langsame <unk> , die über den faulen Hund <unk> .
+Zwei langsame <unk> <unk> über den faulen Hund .
+Zwei langsam aufgeregt Fuchs sprang über den faulen Hund .
+Zwei langsam <unk> Fuchs springt über den faulen Hund .
+Zwei langsam aufgeregt Fuchs über den faulen Hund überspringen .
+Zwei langsam aufgeregt Fuchs <unk> über den faulen Hund .
+Zwei langsam aufgeregt Hund sprang über den faulen Hund .
+Zwei langsam aufgeregt Hund springt über den faulen Hund .
+Zwei langsam aufgeregt Hund über den faulen Hund übersprungen .
+Zwei langsam aufgeregt Hund <unk> über den faulen Hund .
+Zwei langsam aufgeregt Kühlschrank sprang über den faulen Hund .
+Zwei langsam aufgeregt Kühlschrank springt über den faulen Hund .
+Zwei langsam aufgeregt Kühlschrank übersprungen über den faulen Hund .
+Zwei langsam aufgeregt Kühlschrank <unk> über den faulen Hund .
