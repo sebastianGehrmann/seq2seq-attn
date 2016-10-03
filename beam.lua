@@ -14,7 +14,7 @@ cmd = torch.CmdLine()
 -- file location
 cmd:option('-model', 'seq2seq_lstm_attn.t7.', [[Path to model .t7 file]])
 cmd:option('-src_file', '', [[Source sequence to decode (one line per sequence)]])
-cmd:option('-targ_file', '', [[True target sequence (optional)]])
+cmd:option('-targ_file', '', [[True target sequence]])
 cmd:option('-output_file', 'pred.txt', [[Path to output the predictions (each line will be the
                                        decoded sequence]])
 cmd:option('-src_dict', 'data/demo.src.dict', [[Path to source vocabulary (*.src.dict file)]])
@@ -59,49 +59,6 @@ function copy(orig)
     return copy
 end
 
-local StateAll = torch.class("StateAll")
-
-function StateAll.initial(start)
-    return { start }
-end
-
-function StateAll.advance(state, token)
-    local new_state = copy(state)
-    table.insert(new_state, token)
-    return new_state
-end
-
-function StateAll.disallow(out)
-    local bad = { 1, 3 } -- 1 is PAD, 3 is BOS
-    for j = 1, #bad do
-        out[bad[j]] = -1e9
-    end
-end
-
-function StateAll.same(state1, state2)
-    for i = 2, #state1 do
-        if state1[i] ~= state2[i] then
-            return false
-        end
-    end
-    return true
-end
-
-function StateAll.next(state)
-    return state[#state]
-end
-
-function StateAll.heuristic(state)
-    return 0
-end
-
-function StateAll.print(state)
-    for i = 1, #state do
-        io.write(state[i] .. " ")
-    end
-    print()
-end
-
 
 -- Convert a flat index to a row-column tuple.
 function flat_to_rc(v, flat_index)
@@ -116,24 +73,7 @@ function generate_beam(model, initial, K, max_sent_l, source, gold)
         cutorch.setDevice(opt.gpuid)
     end
     local n = max_sent_l
-    -- Backpointer table.
-    local prev_ks = torch.LongTensor(n, K):fill(1)
-    -- Current States.
-    local next_ys = torch.LongTensor(n, K):fill(1)
-    -- Current Scores.
-    local scores = torch.FloatTensor(n, K)
-    scores:zero()
     local source_l = math.min(source:size(1), opt.max_sent_l)
-    local attn_argmax = {} -- store attn weights
-    attn_argmax[1] = {}
-
-    local states = {} -- store predicted word idx
-    states[1] = {}
-    for k = 1, 1 do
-        table.insert(states[1], initial)
-        table.insert(attn_argmax[1], initial)
-        next_ys[1][k] = State.next(initial)
-    end
 
     local source_input
     if model_opt.use_chars_enc == 1 then
@@ -216,117 +156,10 @@ function generate_beam(model, initial, K, max_sent_l, source, gold)
     local found_eos = false
 
 
-
---    while (not done) and (i < n) do
---        i = i + 1
---        states[i] = {}
---        attn_argmax[i] = {}
---        local decoder_input1
---        if model_opt.use_chars_dec == 1 then
---            decoder_input1 = word2charidx_targ:index(1, next_ys:narrow(1, i - 1, 1):squeeze())
---        else
---            decoder_input1 = next_ys:narrow(1, i - 1, 1):squeeze()
---            if opt.beam == 1 then
---                decoder_input1 = torch.LongTensor({ decoder_input1 })
---            end
---        end
---        local decoder_input
---        if model_opt.attn == 1 then
---            decoder_input = { decoder_input1, context, table.unpack(rnn_state_dec) }
---        else
---            decoder_input = { decoder_input1, context[{ {}, source_l }], table.unpack(rnn_state_dec) }
---        end
---        local out_decoder = model[2]:forward(decoder_input)
---        local out = model[3]:forward(out_decoder[#out_decoder]) -- K x vocab_size
---
---        rnn_state_dec = {} -- to be modified later
---        if model_opt.input_feed == 1 then
---            table.insert(rnn_state_dec, out_decoder[#out_decoder])
---        end
---        for j = 1, #out_decoder - 1 do
---            table.insert(rnn_state_dec, out_decoder[j])
---        end
---        out_float:resize(out:size()):copy(out)
---        for k = 1, K do
---            State.disallow(out_float:select(1, k))
---            out_float[k]:add(scores[i - 1][k])
---        end
---        -- All the scores available.
---
---        local flat_out = out_float:view(-1)
---        if i == 2 then
---            flat_out = out_float[1] -- all outputs same for first batch
---        end
---
---        if model_opt.start_symbol == 1 then
---            decoder_softmax.output[{ {}, 1 }]:zero()
---            decoder_softmax.output[{ {}, source_l }]:zero()
---        end
---
---
---        for k = 1, K do
---            while true do
---                local score, index = flat_out:max(1)
---                local score = score[1]
---                local prev_k, y_i = flat_to_rc(out_float, index[1])
---                states[i][k] = State.advance(states[i - 1][prev_k], y_i)
---                local diff = true
---                for k2 = 1, k - 1 do
---                    if State.same(states[i][k2], states[i][k]) then
---                        diff = false
---                    end
---                end
---
---                if i < 2 or diff then
---                    if model_opt.attn == 1 then
---                        max_attn, max_index = decoder_softmax.output[prev_k]:max(1)
---                        attn_argmax[i][k] = State.advance(attn_argmax[i - 1][prev_k], max_index[1])
---                    end
---                    prev_ks[i][k] = prev_k
---                    next_ys[i][k] = y_i
---                    scores[i][k] = score
---                    flat_out[index[1]] = -1e9
---                    break -- move on to next k
---                end
---                flat_out[index[1]] = -1e9
---            end
---        end
---        for j = 1, #rnn_state_dec do
---            rnn_state_dec[j]:copy(rnn_state_dec[j]:index(1, prev_ks[i]))
---        end
---        end_hyp = states[i][1]
---        end_score = scores[i][1]
---        if model_opt.attn == 1 then
---            end_attn_argmax = attn_argmax[i][1]
---        end
---        if end_hyp[#end_hyp] == END then
---            done = true
---            found_eos = true
---        else
---            for k = 1, K do
---                local possible_hyp = states[i][k]
---                if possible_hyp[#possible_hyp] == END then
---                    found_eos = true
---                    if scores[i][k] > max_score then
---                        max_hyp = possible_hyp
---                        max_score = scores[i][k]
---                        if model_opt.attn == 1 then
---                            max_attn_argmax = attn_argmax[i][k]
---                        end
---                    end
---                end
---            end
---        end
---    end
-
-
-
     local gold_score = 0
     if opt.score_gold == 1 then
         print("DECODER POS", saved_decoder_position)
         --SEB
-        print("ATTN POS", soft_attn_pos)
-        table.insert(saved_attn_offsets, soft_attn_pos)
         table.insert(saved_decoder_offsets, saved_decoder_position)
         rnn_state_dec = {}
         for i = 1, #init_fwd_dec do
@@ -357,10 +190,7 @@ function generate_beam(model, initial, K, max_sent_l, source, gold)
             end
 
             --SEB Store current attention
-            --print(decoder_softmax.output)
-            -- print(saved_soft_attn:size())
-            saved_soft_attn[soft_attn_pos]:copy(decoder_softmax.output)
-            soft_attn_pos = soft_attn_pos + 1
+            saved_soft_attn[saved_decoder_position]:copy(decoder_softmax.output)
 
             for j = 1, #out_decoder - 1 do
                 table.insert(rnn_state_dec, out_decoder[j])
@@ -374,13 +204,8 @@ function generate_beam(model, initial, K, max_sent_l, source, gold)
             gold_score = gold_score + out[1][gold[t]]
         end
     end
---    if opt.simple == 1 or end_score > max_score or not found_eos then
---        max_hyp = end_hyp
---        max_score = end_score
---        max_attn_argmax = end_attn_argmax
---    end
-    --SEB
-    return max_hyp, max_score, max_attn_argmax, gold_score, states[i], scores[i], attn_argmax[i]
+
+    return max_score, gold_score
 end
 
 function idx2key(file)
@@ -623,15 +448,12 @@ function main()
     saved_decoder_position = 1
 
     saved_soft_attn = torch.zeros(storage_size, 12)
-    saved_attn_offsets = {}
-    soft_attn_pos = 1
 
     softmax_layers = {}
     model[2]:apply(get_layer)
     if model_opt.attn == 1 then
         decoder_attn:apply(get_layer)
         decoder_softmax = softmax_layers[1]
-        attn_layer = torch.zeros(opt.beam, MAX_SENT_L)
     end
 
 
@@ -650,9 +472,7 @@ function main()
         else
             context_proto = context_proto:cuda()
         end
-        if model_opt.attn == 1 then
-            attn_layer = attn_layer:cuda()
-        end
+
     end
     init_fwd_enc = {}
     init_fwd_dec = {} -- initial context
@@ -672,7 +492,6 @@ function main()
     pred_words_total = 0
     gold_words_total = 0
 
-    State = StateAll
     local sent_id = 0
     pred_sents = {}
     local file = io.open(opt.src_file, "r")
@@ -691,36 +510,19 @@ function main()
         if opt.score_gold == 1 then
             target, target_str = sent2wordidx(gold[sent_id], word2idx_targ, 1)
         end
-        state = State.initial(START)
         print("Sentence", sent_id, source:size(1))
-        pred, pred_score, attn, gold_score, all_sents, all_scores, all_attn = generate_beam(model,
-            state, opt.beam, MAX_SENT_L, source, target)
---        pred_score_total = pred_score_total + pred_score
---        pred_words_total = pred_words_total + #pred - 1
---        pred_sent = wordidx2sent(pred, idx2word_targ, source_str, attn, true)
---        out_file:write(pred_sent .. '\n')
---        print('PRED ' .. sent_id .. ': ' .. pred_sent)
+        pred_score, gold_score = generate_beam(model, state, opt.beam, MAX_SENT_L, source, target)
+
         if gold ~= nil then
             print('GOLD ' .. sent_id .. ': ' .. gold[sent_id])
             if opt.score_gold == 1 then
-                print(string.format("PRED SCORE: %.4f, GOLD SCORE: %.4f", pred_score, gold_score))
+                print(string.format("GOLD SCORE: %.4f", gold_score))
                 gold_score_total = gold_score_total + gold_score
                 gold_words_total = gold_words_total + target:size(1) - 1
             end
         end
 
-
---        if opt.n_best > 1 then
---            for n = 1, opt.n_best do
---                pred_sent_n = wordidx2sent(all_sents[n], idx2word_targ, source_str, all_attn[n], false)
---                local out_n = string.format("%d ||| %s ||| %.4f", n, pred_sent_n, all_scores[n])
---                print(out_n)
---                out_file:write(out_n .. '\n')
---            end
---        end
     end
---    print(string.format("PRED AVG SCORE: %.4f, PRED PPL: %.4f", pred_score_total / pred_words_total,
-        math.exp(-pred_score_total / pred_words_total)))
     if opt.score_gold == 1 then
         print(string.format("GOLD AVG SCORE: %.4f, GOLD PPL: %.4f",
             gold_score_total / gold_words_total,
