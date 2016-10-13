@@ -436,6 +436,16 @@ function main()
     --SEB: the 10000 hard limit creates overflow in long files.
     local storage_size = 100
 
+    --ensure that file exists and open it in append mode
+--    encoderfile = hdf5.open("encoder.hdf5", "w")
+--    encoderfile:close()
+--    encoderfile = hdf5.open("encoder.hdf5", "r+")
+
+--
+--    decoderfile = hdf5.open("decoder.hdf5", "w")
+--    decoderfile:close()
+--    decoderfile = hdf5.open("decoder.hdf5", "r+")
+
     saved_encoder_states = torch.zeros(storage_size, 2 * model_opt.num_layers, model_opt.rnn_size)
     saved_encoder_ids = torch.zeros(storage_size)
     saved_encoder_offsets = {}
